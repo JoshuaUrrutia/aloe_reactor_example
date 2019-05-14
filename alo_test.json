@@ -1,0 +1,36 @@
+{
+  "name": "aloe-test",
+  "parameters": {
+    "trim": true,
+    "sortmerna": false,
+    "path_read2": "/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz",
+    "minlen": 36,
+    "path_read1": "/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz",
+    "adaptersfile": "TruSeq3-PE-2.fa:2:30:10",
+    "path_filterseqs": "/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases",
+    "multiple_lanes": false
+  },
+  "batchQueue": "hadoop",
+  "archiveSystem": "data-tacc-work-urrutia",
+  "archivePath": "wrangler/alo_test",
+  "maxRunTime": "00:50:00",
+  "appId": "urrutia-rnaseq-0.1.4",
+  "archive": true,
+  "notifications": [
+    {
+      "url": "https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV/messages?x-nonce=SD2E_Rj738qzZRDpeW&x-execution=Ej0AgqkOKNmG8&x-agave-job-id=${JOB_ID}&lastAction=manifest&dataset=201808novel_chassisGinkgo%3A${sample}&queues=%5B%27ginkgo_norm_missing2.json%3Astrain%3Astar%27%2C+%27ginkgo_norm_missing2.json%3Astrain%3Abowtie2%27%5D&archivePath=ginkgo/novel-chassis/201808/Novelchassis-Nand-Gate/miniaturized_library_prep&archiveSystem=data-sd2e-community&manifestURL=agave://data-sd2e-community/testing/novel_chassis/new_format/ginkgo_norm_missing2.json&transcriptReference=%2Fwork%2Fprojects%2FSD2E-Community%2Fprod%2Fdata%2F%2Freference%2Fnovel_chassis%2Fmaster_ref",
+      "event": "FINISHED",
+      "persistent": true
+    },
+    {
+	"url": "https://postb.in/b/XOvNtKa3",
+	"event": "FINISHED",
+        "persistent": true
+    },
+    {
+	"url": "jurrutia@tacc.utexas.edu",
+	"event": "FINISHED",
+        "persistent": true
+    }
+  ]
+}

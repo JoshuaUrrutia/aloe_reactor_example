@@ -1,0 +1,1 @@
+abaco executions -v $re | grep 'id' | cut -f 4 -d '"' | xargs -n 1 abaco logs $re

@@ -1,0 +1,2419 @@
+[92mLogs for execution zrZRykq5q8GZm:[0m
+R4kKGm1gQ7xDV INFO Hello this is actor R4kKGm1gQ7xDV
+R4kKGm1gQ7xDV INFO successfully ran
+R4kKGm1gQ7xDV INFO successfully ran
+NONCE:
+{'_links': {'actor': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV', 'owner': 'https://api.sd2e.org/profiles/v2/urrutia', 'self': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV/nonces/SD2E_YvjKxNP0oLyJ8'}, 'actorId': 'R4kKGm1gQ7xDV', 'apiServer': 'https://api.sd2e.org', 'createTime': '2019-04-03 17:12:23.870115', 'currentUses': 0, 'description': '', 'id': 'SD2E_YvjKxNP0oLyJ8', 'lastUseTime': 'None', 'level': 'READ', 'maxUses': 1, 'owner': 'urrutia', 'remainingUses': 1, 'roles': ['Internal/everyone']}
+{'HOME': '/',
+ 'HOSTNAME': 'ddad28741baf',
+ 'MSG': "{'test': 'Message'}",
+ 'PATH': '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin',
+ 'REACTORS_VERSION': '0.7.6',
+ 'SCRATCH': '/mnt/ephemeral-01',
+ 'XDG_CACHE_HOME': '/tmp',
+ '_PROJ_CORRAL': '/corral',
+ '_PROJ_STOCKYARD': '/work/projects/',
+ '_REACTOR_TEMP': '/mnt/ephemeral-01',
+ '_USER_WORK': '',
+ '_abaco_Content_Type': 'application/json',
+ '_abaco_access_token': 'fa176169327b104db3438e3a645bc6d7',
+ '_abaco_actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ '_abaco_actor_id': 'R4kKGm1gQ7xDV',
+ '_abaco_actor_name': 'echo_reactor',
+ '_abaco_actor_state': '{}',
+ '_abaco_api_server': 'https://api.sd2e.org',
+ '_abaco_container_repo': 'jurrutia/echo_reactor:0.1',
+ '_abaco_execution_id': 'zrZRykq5q8GZm',
+ '_abaco_jwt_header_name': 'X-Jwt-Assertion-Sd2E',
+ '_abaco_username': 'urrutia',
+ '_abaco_worker_id': 'LkMb30E8eaYQO',
+ 'actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ 'actor_id': 'R4kKGm1gQ7xDV',
+ 'content_type': None,
+ 'execution_id': 'zrZRykq5q8GZm',
+ 'message_dict': {'test': 'Message'},
+ 'raw_message': "{'test': 'Message'}",
+ 'raw_message_parse_log': '',
+ 'state': '{}',
+ 'username': 'urrutia'}
+
+[92mLogs for execution Pyvzlr64xBkjV:[0m
+R4kKGm1gQ7xDV INFO Hello this is actor R4kKGm1gQ7xDV
+R4kKGm1gQ7xDV INFO successfully ran
+R4kKGm1gQ7xDV INFO successfully ran
+NONCE:
+{'_links': {'actor': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV', 'owner': 'https://api.sd2e.org/profiles/v2/urrutia', 'self': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV/nonces/SD2E_Rj738qzZRDpeW'}, 'actorId': 'R4kKGm1gQ7xDV', 'apiServer': 'https://api.sd2e.org', 'createTime': '2019-04-03 17:21:59.865271', 'currentUses': 0, 'description': '', 'id': 'SD2E_Rj738qzZRDpeW', 'lastUseTime': 'None', 'level': 'EXECUTE', 'maxUses': -1, 'owner': 'urrutia', 'remainingUses': -1, 'roles': ['Internal/everyone']}
+{'HOME': '/',
+ 'HOSTNAME': 'bafa5de2fb4c',
+ 'MSG': "{'test': 'Message'}",
+ 'PATH': '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin',
+ 'REACTORS_VERSION': '0.7.6',
+ 'SCRATCH': '/mnt/ephemeral-01',
+ 'XDG_CACHE_HOME': '/tmp',
+ '_PROJ_CORRAL': '/corral',
+ '_PROJ_STOCKYARD': '/work/projects/',
+ '_REACTOR_TEMP': '/mnt/ephemeral-01',
+ '_USER_WORK': '',
+ '_abaco_Content_Type': 'application/json',
+ '_abaco_access_token': 'ca1d656f8233c5f1f83e59da23f752',
+ '_abaco_actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ '_abaco_actor_id': 'R4kKGm1gQ7xDV',
+ '_abaco_actor_name': 'echo_reactor',
+ '_abaco_actor_state': '{}',
+ '_abaco_api_server': 'https://api.sd2e.org',
+ '_abaco_container_repo': 'jurrutia/echo_reactor:0.1',
+ '_abaco_execution_id': 'Pyvzlr64xBkjV',
+ '_abaco_jwt_header_name': 'X-Jwt-Assertion-Sd2E',
+ '_abaco_username': 'urrutia',
+ '_abaco_worker_id': 'raNXjlZOXpVNz',
+ 'actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ 'actor_id': 'R4kKGm1gQ7xDV',
+ 'content_type': None,
+ 'execution_id': 'Pyvzlr64xBkjV',
+ 'message_dict': {'test': 'Message'},
+ 'raw_message': "{'test': 'Message'}",
+ 'raw_message_parse_log': '',
+ 'state': '{}',
+ 'username': 'urrutia'}
+
+[92mLogs for execution 36ORLxqZg6k5g:[0m
+R4kKGm1gQ7xDV INFO Hello this is actor R4kKGm1gQ7xDV
+NONCE:
+{'_links': {'actor': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV', 'owner': 'https://api.sd2e.org/profiles/v2/urrutia', 'self': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV/nonces/SD2E_YyoXE4BQ7EoZm'}, 'actorId': 'R4kKGm1gQ7xDV', 'apiServer': 'https://api.sd2e.org', 'createTime': '2019-04-03 17:35:53.790308', 'currentUses': 0, 'description': '', 'id': 'SD2E_YyoXE4BQ7EoZm', 'lastUseTime': 'None', 'level': 'EXECUTE', 'maxUses': -1, 'owner': 'urrutia', 'remainingUses': -1, 'roles': ['Internal/everyone']}
+{'HOME': '/',
+ 'HOSTNAME': '865d01c498a9',
+ 'MSG': "{'id': 214928, 'name': 'aloe-test', 'tenantId': 'sd2e', "
+        "'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue', 'status': "
+        "'PENDING', 'lastStatusMessage': 'JOBS_ACCEPTED Job accepted for "
+        "processing.', 'accepted': '2019-04-03T17:35:48.640Z', 'created': "
+        "'2019-04-03T17:35:49.104Z', 'ended': None, 'lastUpdated': "
+        "'2019-04-03T17:35:49.104Z', 'uuid': "
+        "'4ef0e75b-eab8-4f71-ad2f-2ff9fa8e4128-007', 'owner': 'urrutia', "
+        "'roles': "
+        "'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX', "
+        "'systemId': None, 'appId': 'urrutia-rnaseq-0.1.4', 'appUuid': "
+        "'44532760559873560-242ac11b-0001-005', 'workPath': None, 'archive': "
+        "True, 'archivePath': 'wrangler/alo_test', 'archiveSystem': "
+        "'data-tacc-work-urrutia', 'nodeCount': 0, 'processorsPerNode': 0, "
+        "'memoryPerNode': 0.0, 'maxHours': 0.83, 'inputs': '{}', 'parameters': "
+        '\'{"trim":true,"sortmerna":false,"path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","minlen":36,"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","adaptersfile":"TruSeq3-PE-2.fa:2:30:10","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","multiple_lanes":false}\', '
+        "'remoteJobId': None, 'schedulerJobId': None, 'remoteQueue': None, "
+        "'remoteSubmitted': None, 'remoteStarted': None, 'remoteEnded': None, "
+        "'remoteOutcome': None, 'submitRetries': 0, 'remoteStatusChecks': 0, "
+        "'failedStatusChecks': 0, 'lastStatusCheck': None, 'blockedCount': 0, "
+        "'visible': True, 'updateToken': "
+        "'ee03b7b0-4524-4041-a24c-7bfd67412fc9'}",
+ 'PATH': '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin',
+ 'REACTORS_VERSION': '0.7.6',
+ 'SCRATCH': '/mnt/ephemeral-01',
+ 'XDG_CACHE_HOME': '/tmp',
+ '_PROJ_CORRAL': '/corral',
+ '_PROJ_STOCKYARD': '/work/projects/',
+ '_REACTOR_TEMP': '/mnt/ephemeral-01',
+ '_USER_WORK': '',
+ '_abaco_Content_Type': 'application/json',
+ '_abaco_access_token': '65f3cba7ba6f60fdea892538a8b230c6',
+ '_abaco_actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ '_abaco_actor_id': 'R4kKGm1gQ7xDV',
+ '_abaco_actor_name': 'echo_reactor',
+ '_abaco_actor_state': '{}',
+ '_abaco_api_server': 'https://api.sd2e.org',
+ '_abaco_container_repo': 'jurrutia/echo_reactor:0.1',
+ '_abaco_execution_id': '36ORLxqZg6k5g',
+ '_abaco_username': 'urrutia',
+ '_abaco_worker_id': 'raNXjlZOXpVNz',
+ 'actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ 'actor_id': 'R4kKGm1gQ7xDV',
+ 'archivePath': 'ginkgo/novel-chassis/201808/Novelchassis-Nand-Gate/miniaturized_library_prep',
+ 'archiveSystem': 'data-sd2e-community',
+ 'content_type': None,
+ 'dataset': '201808novel_chassisGinkgo%3A${sample}',
+ 'execution_id': '36ORLxqZg6k5g',
+ 'lastAction': 'manifest',
+ 'manifestURL': 'agave://data-sd2e-community/testing/novel_chassis/new_format/ginkgo_norm_missing2.json',
+ 'message_dict': {'accepted': '2019-04-03T17:35:48.640Z',
+                  'appId': 'urrutia-rnaseq-0.1.4',
+                  'appUuid': '44532760559873560-242ac11b-0001-005',
+                  'archive': True,
+                  'archivePath': 'wrangler/alo_test',
+                  'archiveSystem': 'data-tacc-work-urrutia',
+                  'blockedCount': 0,
+                  'created': '2019-04-03T17:35:49.104Z',
+                  'ended': None,
+                  'failedStatusChecks': 0,
+                  'id': 214928,
+                  'inputs': '{}',
+                  'lastStatusCheck': None,
+                  'lastStatusMessage': 'JOBS_ACCEPTED Job accepted for '
+                                       'processing.',
+                  'lastUpdated': '2019-04-03T17:35:49.104Z',
+                  'maxHours': 0.83,
+                  'memoryPerNode': 0.0,
+                  'name': 'aloe-test',
+                  'nodeCount': 0,
+                  'owner': 'urrutia',
+                  'parameters': '{"trim":true,"sortmerna":false,"path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","minlen":36,"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","adaptersfile":"TruSeq3-PE-2.fa:2:30:10","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","multiple_lanes":false}',
+                  'processorsPerNode': 0,
+                  'remoteEnded': None,
+                  'remoteJobId': None,
+                  'remoteOutcome': None,
+                  'remoteQueue': None,
+                  'remoteStarted': None,
+                  'remoteStatusChecks': 0,
+                  'remoteSubmitted': None,
+                  'roles': 'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX',
+                  'schedulerJobId': None,
+                  'status': 'PENDING',
+                  'submitRetries': 0,
+                  'systemId': None,
+                  'tenantId': 'sd2e',
+                  'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue',
+                  'updateToken': 'ee03b7b0-4524-4041-a24c-7bfd67412fc9',
+                  'uuid': '4ef0e75b-eab8-4f71-ad2f-2ff9fa8e4128-007',
+                  'visible': True,
+                  'workPath': None},
+ 'queues': '%5B%27ginkgo_norm_missing2.json%3Astrain%3Astar%27%2C '
+           '%27ginkgo_norm_missing2.json%3Astrain%3Abowtie2%27%5D',
+ 'raw_message': "{'id': 214928, 'name': 'aloe-test', 'tenantId': 'sd2e', "
+                "'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue', "
+                "'status': 'PENDING', 'lastStatusMessage': 'JOBS_ACCEPTED Job "
+                "accepted for processing.', 'accepted': "
+                "'2019-04-03T17:35:48.640Z', 'created': "
+                "'2019-04-03T17:35:49.104Z', 'ended': None, 'lastUpdated': "
+                "'2019-04-03T17:35:49.104Z', 'uuid': "
+                "'4ef0e75b-eab8-4f71-ad2f-2ff9fa8e4128-007', 'owner': "
+                "'urrutia', 'roles': "
+R4kKGm1gQ7xDV INFO successfully ran
+R4kKGm1gQ7xDV INFO successfully ran
+                "'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX', "
+                "'systemId': None, 'appId': 'urrutia-rnaseq-0.1.4', 'appUuid': "
+                "'44532760559873560-242ac11b-0001-005', 'workPath': None, "
+                "'archive': True, 'archivePath': 'wrangler/alo_test', "
+                "'archiveSystem': 'data-tacc-work-urrutia', 'nodeCount': 0, "
+                "'processorsPerNode': 0, 'memoryPerNode': 0.0, 'maxHours': "
+                "0.83, 'inputs': '{}', 'parameters': "
+                '\'{"trim":true,"sortmerna":false,"path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","minlen":36,"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","adaptersfile":"TruSeq3-PE-2.fa:2:30:10","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","multiple_lanes":false}\', '
+                "'remoteJobId': None, 'schedulerJobId': None, 'remoteQueue': "
+                "None, 'remoteSubmitted': None, 'remoteStarted': None, "
+                "'remoteEnded': None, 'remoteOutcome': None, 'submitRetries': "
+                "0, 'remoteStatusChecks': 0, 'failedStatusChecks': 0, "
+                "'lastStatusCheck': None, 'blockedCount': 0, 'visible': True, "
+                "'updateToken': 'ee03b7b0-4524-4041-a24c-7bfd67412fc9'}",
+ 'raw_message_parse_log': '',
+ 'state': '{}',
+ 'transcriptReference': '%2Fwork%2Fprojects%2FSD2E-Community%2Fprod%2Fdata%2F%2Freference%2Fnovel_chassis%2Fmaster_ref',
+ 'username': 'urrutia',
+ 'x-agave-job-id': '214928',
+ 'x-execution': 'Ej0AgqkOKNmG8',
+ 'x-nonce': 'SD2E_Rj738qzZRDpeW'}
+
+[92mLogs for execution YyGBEAzopGjZm:[0m
+R4kKGm1gQ7xDV INFO Hello this is actor R4kKGm1gQ7xDV
+NONCE:
+{'_links': {'actor': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV', 'owner': 'https://api.sd2e.org/profiles/v2/urrutia', 'self': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV/nonces/SD2E_Ry6L336KmWX1L'}, 'actorId': 'R4kKGm1gQ7xDV', 'apiServer': 'https://api.sd2e.org', 'createTime': '2019-04-03 17:35:58.525839', 'currentUses': 0, 'description': '', 'id': 'SD2E_Ry6L336KmWX1L', 'lastUseTime': 'None', 'level': 'EXECUTE', 'maxUses': -1, 'owner': 'urrutia', 'remainingUses': -1, 'roles': ['Internal/everyone']}
+{'HOME': '/',
+ 'HOSTNAME': '3bfac089067c',
+ 'MSG': "{'id': 214928, 'name': 'aloe-test', 'tenantId': 'sd2e', "
+        "'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue', 'status': "
+        "'PROCESSING_INPUTS', 'lastStatusMessage': "
+        "'JOBS_INITIAL_INPUT_VALIDATION_COMPLETE Initial input validation "
+        "complete for job 4ef0e75b-eab8-4f71-ad2f-2ff9fa8e4128-007.', "
+        "'accepted': '2019-04-03T17:35:48.640Z', 'created': "
+        "'2019-04-03T17:35:49.104Z', 'ended': None, 'lastUpdated': "
+        "'2019-04-03T17:35:49.104Z', 'uuid': "
+        "'4ef0e75b-eab8-4f71-ad2f-2ff9fa8e4128-007', 'owner': 'urrutia', "
+        "'roles': "
+        "'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX', "
+        "'systemId': 'hpc-tacc-wrangler-urrutia', 'appId': "
+        "'urrutia-rnaseq-0.1.4', 'appUuid': "
+        "'44532760559873560-242ac11b-0001-005', 'workPath': None, 'archive': "
+        "True, 'archivePath': 'wrangler/alo_test', 'archiveSystem': "
+        "'data-tacc-work-urrutia', 'nodeCount': 1, 'processorsPerNode': 1, "
+        "'memoryPerNode': 1.0, 'maxHours': 0.83, 'inputs': '{}', 'parameters': "
+        '\'{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}\', '
+        "'remoteJobId': None, 'schedulerJobId': None, 'remoteQueue': 'hadoop', "
+        "'remoteSubmitted': None, 'remoteStarted': None, 'remoteEnded': None, "
+        "'remoteOutcome': None, 'submitRetries': 0, 'remoteStatusChecks': 0, "
+        "'failedStatusChecks': 0, 'lastStatusCheck': None, 'blockedCount': 0, "
+        "'visible': True, 'updateToken': "
+        "'ee03b7b0-4524-4041-a24c-7bfd67412fc9'}",
+ 'PATH': '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin',
+ 'REACTORS_VERSION': '0.7.6',
+ 'SCRATCH': '/mnt/ephemeral-01',
+ 'XDG_CACHE_HOME': '/tmp',
+ '_PROJ_CORRAL': '/corral',
+ '_PROJ_STOCKYARD': '/work/projects/',
+ '_REACTOR_TEMP': '/mnt/ephemeral-01',
+ '_USER_WORK': '',
+ '_abaco_Content_Type': 'application/json',
+ '_abaco_access_token': '5733bcc292a015393764fba7e1d99982',
+ '_abaco_actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ '_abaco_actor_id': 'R4kKGm1gQ7xDV',
+ '_abaco_actor_name': 'echo_reactor',
+ '_abaco_actor_state': '{}',
+ '_abaco_api_server': 'https://api.sd2e.org',
+ '_abaco_container_repo': 'jurrutia/echo_reactor:0.1',
+ '_abaco_execution_id': 'YyGBEAzopGjZm',
+ '_abaco_username': 'urrutia',
+ '_abaco_worker_id': 'raNXjlZOXpVNz',
+ 'actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ 'actor_id': 'R4kKGm1gQ7xDV',
+ 'archivePath': 'ginkgo/novel-chassis/201808/Novelchassis-Nand-Gate/miniaturized_library_prep',
+ 'archiveSystem': 'data-sd2e-community',
+ 'content_type': None,
+ 'dataset': '201808novel_chassisGinkgo%3A${sample}',
+ 'execution_id': 'YyGBEAzopGjZm',
+ 'lastAction': 'manifest',
+ 'manifestURL': 'agave://data-sd2e-community/testing/novel_chassis/new_format/ginkgo_norm_missing2.json',
+ 'message_dict': {'accepted': '2019-04-03T17:35:48.640Z',
+                  'appId': 'urrutia-rnaseq-0.1.4',
+                  'appUuid': '44532760559873560-242ac11b-0001-005',
+                  'archive': True,
+                  'archivePath': 'wrangler/alo_test',
+                  'archiveSystem': 'data-tacc-work-urrutia',
+                  'blockedCount': 0,
+                  'created': '2019-04-03T17:35:49.104Z',
+                  'ended': None,
+                  'failedStatusChecks': 0,
+                  'id': 214928,
+                  'inputs': '{}',
+                  'lastStatusCheck': None,
+                  'lastStatusMessage': 'JOBS_INITIAL_INPUT_VALIDATION_COMPLETE '
+                                       'Initial input validation complete for '
+                                       'job '
+                                       '4ef0e75b-eab8-4f71-ad2f-2ff9fa8e4128-007.',
+                  'lastUpdated': '2019-04-03T17:35:49.104Z',
+                  'maxHours': 0.83,
+                  'memoryPerNode': 1.0,
+                  'name': 'aloe-test',
+                  'nodeCount': 1,
+                  'owner': 'urrutia',
+                  'parameters': '{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}',
+                  'processorsPerNode': 1,
+                  'remoteEnded': None,
+                  'remoteJobId': None,
+                  'remoteOutcome': None,
+                  'remoteQueue': 'hadoop',
+                  'remoteStarted': None,
+                  'remoteStatusChecks': 0,
+                  'remoteSubmitted': None,
+                  'roles': 'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX',
+                  'schedulerJobId': None,
+                  'status': 'PROCESSING_INPUTS',
+                  'submitRetries': 0,
+                  'systemId': 'hpc-tacc-wrangler-urrutia',
+                  'tenantId': 'sd2e',
+                  'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue',
+                  'updateToken': 'ee03b7b0-4524-4041-a24c-7bfd67412fc9',
+                  'uuid': '4ef0e75b-eab8-4f71-ad2f-2ff9fa8e4128-007',
+                  'visible': True,
+                  'workPath': None},
+ 'queues': '%5B%27ginkgo_norm_missing2.json%3Astrain%3Astar%27%2C '
+           '%27ginkgo_norm_missing2.json%3Astrain%3Abowtie2%27%5D',
+ 'raw_message': "{'id': 214928, 'name': 'aloe-test', 'tenantId': 'sd2e', "
+                "'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue', "
+                "'status': 'PROCESSING_INPUTS', 'lastStatusMessage': "
+                "'JOBS_INITIAL_INPUT_VALIDATION_COMPLETE Initial input "
+                'validation complete for job '
+R4kKGm1gQ7xDV INFO successfully ran
+R4kKGm1gQ7xDV INFO successfully ran
+                "4ef0e75b-eab8-4f71-ad2f-2ff9fa8e4128-007.', 'accepted': "
+                "'2019-04-03T17:35:48.640Z', 'created': "
+                "'2019-04-03T17:35:49.104Z', 'ended': None, 'lastUpdated': "
+                "'2019-04-03T17:35:49.104Z', 'uuid': "
+                "'4ef0e75b-eab8-4f71-ad2f-2ff9fa8e4128-007', 'owner': "
+                "'urrutia', 'roles': "
+                "'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX', "
+                "'systemId': 'hpc-tacc-wrangler-urrutia', 'appId': "
+                "'urrutia-rnaseq-0.1.4', 'appUuid': "
+                "'44532760559873560-242ac11b-0001-005', 'workPath': None, "
+                "'archive': True, 'archivePath': 'wrangler/alo_test', "
+                "'archiveSystem': 'data-tacc-work-urrutia', 'nodeCount': 1, "
+                "'processorsPerNode': 1, 'memoryPerNode': 1.0, 'maxHours': "
+                "0.83, 'inputs': '{}', 'parameters': "
+                '\'{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}\', '
+                "'remoteJobId': None, 'schedulerJobId': None, 'remoteQueue': "
+                "'hadoop', 'remoteSubmitted': None, 'remoteStarted': None, "
+                "'remoteEnded': None, 'remoteOutcome': None, 'submitRetries': "
+                "0, 'remoteStatusChecks': 0, 'failedStatusChecks': 0, "
+                "'lastStatusCheck': None, 'blockedCount': 0, 'visible': True, "
+                "'updateToken': 'ee03b7b0-4524-4041-a24c-7bfd67412fc9'}",
+ 'raw_message_parse_log': '',
+ 'state': '{}',
+ 'transcriptReference': '%2Fwork%2Fprojects%2FSD2E-Community%2Fprod%2Fdata%2F%2Freference%2Fnovel_chassis%2Fmaster_ref',
+ 'username': 'urrutia',
+ 'x-agave-job-id': '214928',
+ 'x-execution': 'Ej0AgqkOKNmG8',
+ 'x-nonce': 'SD2E_Rj738qzZRDpeW'}
+
+[92mLogs for execution LN5WvXwveqxpB:[0m
+R4kKGm1gQ7xDV INFO Hello this is actor R4kKGm1gQ7xDV
+NONCE:
+{'_links': {'actor': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV', 'owner': 'https://api.sd2e.org/profiles/v2/urrutia', 'self': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV/nonces/SD2E_opzQqXwzqRvoM'}, 'actorId': 'R4kKGm1gQ7xDV', 'apiServer': 'https://api.sd2e.org', 'createTime': '2019-04-03 17:36:05.054449', 'currentUses': 0, 'description': '', 'id': 'SD2E_opzQqXwzqRvoM', 'lastUseTime': 'None', 'level': 'EXECUTE', 'maxUses': -1, 'owner': 'urrutia', 'remainingUses': -1, 'roles': ['Internal/everyone']}
+{'HOME': '/',
+ 'HOSTNAME': '07557a93281c',
+ 'MSG': "{'id': 214928, 'name': 'aloe-test', 'tenantId': 'sd2e', "
+        "'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue', 'status': "
+        "'PROCESSING_INPUTS', 'lastStatusMessage': "
+        "'JOBS_INITIAL_INPUT_VALIDATION_COMPLETE Initial input validation "
+        "complete for job 4ef0e75b-eab8-4f71-ad2f-2ff9fa8e4128-007.', "
+        "'accepted': '2019-04-03T17:35:48.640Z', 'created': "
+        "'2019-04-03T17:35:49.104Z', 'ended': None, 'lastUpdated': "
+        "'2019-04-03T17:35:49.419Z', 'uuid': "
+        "'4ef0e75b-eab8-4f71-ad2f-2ff9fa8e4128-007', 'owner': 'urrutia', "
+        "'roles': "
+        "'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX', "
+        "'systemId': 'hpc-tacc-wrangler-urrutia', 'appId': "
+        "'urrutia-rnaseq-0.1.4', 'appUuid': "
+        "'44532760559873560-242ac11b-0001-005', 'workPath': None, 'archive': "
+        "True, 'archivePath': 'wrangler/alo_test', 'archiveSystem': "
+        "'data-tacc-work-urrutia', 'nodeCount': 1, 'processorsPerNode': 1, "
+        "'memoryPerNode': 1.0, 'maxHours': 0.83, 'inputs': '{}', 'parameters': "
+        '\'{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}\', '
+        "'remoteJobId': None, 'schedulerJobId': None, 'remoteQueue': 'hadoop', "
+        "'remoteSubmitted': None, 'remoteStarted': None, 'remoteEnded': None, "
+        "'remoteOutcome': None, 'submitRetries': 0, 'remoteStatusChecks': 0, "
+        "'failedStatusChecks': 0, 'lastStatusCheck': None, 'blockedCount': 0, "
+        "'visible': True, 'updateToken': "
+        "'ee03b7b0-4524-4041-a24c-7bfd67412fc9'}",
+ 'PATH': '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin',
+ 'REACTORS_VERSION': '0.7.6',
+ 'SCRATCH': '/mnt/ephemeral-01',
+ 'XDG_CACHE_HOME': '/tmp',
+ '_PROJ_CORRAL': '/corral',
+ '_PROJ_STOCKYARD': '/work/projects/',
+ '_REACTOR_TEMP': '/mnt/ephemeral-01',
+ '_USER_WORK': '',
+ '_abaco_Content_Type': 'application/json',
+ '_abaco_access_token': '1b2feb7192b89b4bebdb04e2ea7ffbc',
+ '_abaco_actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ '_abaco_actor_id': 'R4kKGm1gQ7xDV',
+ '_abaco_actor_name': 'echo_reactor',
+ '_abaco_actor_state': '{}',
+ '_abaco_api_server': 'https://api.sd2e.org',
+ '_abaco_container_repo': 'jurrutia/echo_reactor:0.1',
+ '_abaco_execution_id': 'LN5WvXwveqxpB',
+ '_abaco_username': 'urrutia',
+ '_abaco_worker_id': 'raNXjlZOXpVNz',
+ 'actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ 'actor_id': 'R4kKGm1gQ7xDV',
+ 'archivePath': 'ginkgo/novel-chassis/201808/Novelchassis-Nand-Gate/miniaturized_library_prep',
+ 'archiveSystem': 'data-sd2e-community',
+ 'content_type': None,
+ 'dataset': '201808novel_chassisGinkgo%3A${sample}',
+ 'execution_id': 'LN5WvXwveqxpB',
+ 'lastAction': 'manifest',
+ 'manifestURL': 'agave://data-sd2e-community/testing/novel_chassis/new_format/ginkgo_norm_missing2.json',
+ 'message_dict': {'accepted': '2019-04-03T17:35:48.640Z',
+                  'appId': 'urrutia-rnaseq-0.1.4',
+                  'appUuid': '44532760559873560-242ac11b-0001-005',
+                  'archive': True,
+                  'archivePath': 'wrangler/alo_test',
+                  'archiveSystem': 'data-tacc-work-urrutia',
+                  'blockedCount': 0,
+                  'created': '2019-04-03T17:35:49.104Z',
+                  'ended': None,
+                  'failedStatusChecks': 0,
+R4kKGm1gQ7xDV INFO successfully ran
+R4kKGm1gQ7xDV INFO successfully ran
+                  'id': 214928,
+                  'inputs': '{}',
+                  'lastStatusCheck': None,
+                  'lastStatusMessage': 'JOBS_INITIAL_INPUT_VALIDATION_COMPLETE '
+                                       'Initial input validation complete for '
+                                       'job '
+                                       '4ef0e75b-eab8-4f71-ad2f-2ff9fa8e4128-007.',
+                  'lastUpdated': '2019-04-03T17:35:49.419Z',
+                  'maxHours': 0.83,
+                  'memoryPerNode': 1.0,
+                  'name': 'aloe-test',
+                  'nodeCount': 1,
+                  'owner': 'urrutia',
+                  'parameters': '{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}',
+                  'processorsPerNode': 1,
+                  'remoteEnded': None,
+                  'remoteJobId': None,
+                  'remoteOutcome': None,
+                  'remoteQueue': 'hadoop',
+                  'remoteStarted': None,
+                  'remoteStatusChecks': 0,
+                  'remoteSubmitted': None,
+                  'roles': 'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX',
+                  'schedulerJobId': None,
+                  'status': 'PROCESSING_INPUTS',
+                  'submitRetries': 0,
+                  'systemId': 'hpc-tacc-wrangler-urrutia',
+                  'tenantId': 'sd2e',
+                  'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue',
+                  'updateToken': 'ee03b7b0-4524-4041-a24c-7bfd67412fc9',
+                  'uuid': '4ef0e75b-eab8-4f71-ad2f-2ff9fa8e4128-007',
+                  'visible': True,
+                  'workPath': None},
+ 'queues': '%5B%27ginkgo_norm_missing2.json%3Astrain%3Astar%27%2C '
+           '%27ginkgo_norm_missing2.json%3Astrain%3Abowtie2%27%5D',
+ 'raw_message': "{'id': 214928, 'name': 'aloe-test', 'tenantId': 'sd2e', "
+                "'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue', "
+                "'status': 'PROCESSING_INPUTS', 'lastStatusMessage': "
+                "'JOBS_INITIAL_INPUT_VALIDATION_COMPLETE Initial input "
+                'validation complete for job '
+                "4ef0e75b-eab8-4f71-ad2f-2ff9fa8e4128-007.', 'accepted': "
+                "'2019-04-03T17:35:48.640Z', 'created': "
+                "'2019-04-03T17:35:49.104Z', 'ended': None, 'lastUpdated': "
+                "'2019-04-03T17:35:49.419Z', 'uuid': "
+                "'4ef0e75b-eab8-4f71-ad2f-2ff9fa8e4128-007', 'owner': "
+                "'urrutia', 'roles': "
+                "'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX', "
+                "'systemId': 'hpc-tacc-wrangler-urrutia', 'appId': "
+                "'urrutia-rnaseq-0.1.4', 'appUuid': "
+                "'44532760559873560-242ac11b-0001-005', 'workPath': None, "
+                "'archive': True, 'archivePath': 'wrangler/alo_test', "
+                "'archiveSystem': 'data-tacc-work-urrutia', 'nodeCount': 1, "
+                "'processorsPerNode': 1, 'memoryPerNode': 1.0, 'maxHours': "
+                "0.83, 'inputs': '{}', 'parameters': "
+                '\'{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}\', '
+                "'remoteJobId': None, 'schedulerJobId': None, 'remoteQueue': "
+                "'hadoop', 'remoteSubmitted': None, 'remoteStarted': None, "
+                "'remoteEnded': None, 'remoteOutcome': None, 'submitRetries': "
+                "0, 'remoteStatusChecks': 0, 'failedStatusChecks': 0, "
+                "'lastStatusCheck': None, 'blockedCount': 0, 'visible': True, "
+                "'updateToken': 'ee03b7b0-4524-4041-a24c-7bfd67412fc9'}",
+ 'raw_message_parse_log': '',
+ 'state': '{}',
+ 'transcriptReference': '%2Fwork%2Fprojects%2FSD2E-Community%2Fprod%2Fdata%2F%2Freference%2Fnovel_chassis%2Fmaster_ref',
+ 'username': 'urrutia',
+ 'x-agave-job-id': '214928',
+ 'x-execution': 'Ej0AgqkOKNmG8',
+ 'x-nonce': 'SD2E_Rj738qzZRDpeW'}
+
+[92mLogs for execution peVrRpyQM6N17:[0m
+R4kKGm1gQ7xDV INFO Hello this is actor R4kKGm1gQ7xDV
+NONCE:
+{'_links': {'actor': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV', 'owner': 'https://api.sd2e.org/profiles/v2/urrutia', 'self': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV/nonces/SD2E_q4XQGRr115e5M'}, 'actorId': 'R4kKGm1gQ7xDV', 'apiServer': 'https://api.sd2e.org', 'createTime': '2019-04-03 17:36:10.679193', 'currentUses': 0, 'description': '', 'id': 'SD2E_q4XQGRr115e5M', 'lastUseTime': 'None', 'level': 'EXECUTE', 'maxUses': -1, 'owner': 'urrutia', 'remainingUses': -1, 'roles': ['Internal/everyone']}
+{'HOME': '/',
+ 'HOSTNAME': 'b0ea45ba706b',
+ 'MSG': "{'id': 214928, 'name': 'aloe-test', 'tenantId': 'sd2e', "
+        "'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue', 'status': "
+        "'STAGED', 'lastStatusMessage': 'Transitioning from status "
+        "PROCESSING_INPUTS to STAGED in phase STAGING.', 'accepted': "
+        "'2019-04-03T17:35:48.640Z', 'created': '2019-04-03T17:35:49.104Z', "
+        "'ended': None, 'lastUpdated': '2019-04-03T17:35:58.255Z', 'uuid': "
+        "'4ef0e75b-eab8-4f71-ad2f-2ff9fa8e4128-007', 'owner': 'urrutia', "
+        "'roles': "
+        "'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX', "
+        "'systemId': 'hpc-tacc-wrangler-urrutia', 'appId': "
+        "'urrutia-rnaseq-0.1.4', 'appUuid': "
+        "'44532760559873560-242ac11b-0001-005', 'workPath': "
+        "'urrutia/job-4ef0e75b-eab8-4f71-ad2f-2ff9fa8e4128-007-aloe-test', "
+        "'archive': True, 'archivePath': 'wrangler/alo_test', 'archiveSystem': "
+        "'data-tacc-work-urrutia', 'nodeCount': 1, 'processorsPerNode': 1, "
+        "'memoryPerNode': 1.0, 'maxHours': 0.83, 'inputs': '{}', 'parameters': "
+        '\'{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}\', '
+        "'remoteJobId': None, 'schedulerJobId': None, 'remoteQueue': 'hadoop', "
+        "'remoteSubmitted': None, 'remoteStarted': None, 'remoteEnded': None, "
+        "'remoteOutcome': None, 'submitRetries': 0, 'remoteStatusChecks': 0, "
+        "'failedStatusChecks': 0, 'lastStatusCheck': None, 'blockedCount': 0, "
+        "'visible': True, 'updateToken': "
+        "'ee03b7b0-4524-4041-a24c-7bfd67412fc9'}",
+ 'PATH': '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin',
+ 'REACTORS_VERSION': '0.7.6',
+ 'SCRATCH': '/mnt/ephemeral-01',
+ 'XDG_CACHE_HOME': '/tmp',
+ '_PROJ_CORRAL': '/corral',
+ '_PROJ_STOCKYARD': '/work/projects/',
+ '_REACTOR_TEMP': '/mnt/ephemeral-01',
+ '_USER_WORK': '',
+ '_abaco_Content_Type': 'application/json',
+ '_abaco_access_token': 'b41f44c745c77acc88c2f0d1501ab027',
+ '_abaco_actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ '_abaco_actor_id': 'R4kKGm1gQ7xDV',
+ '_abaco_actor_name': 'echo_reactor',
+ '_abaco_actor_state': '{}',
+ '_abaco_api_server': 'https://api.sd2e.org',
+ '_abaco_container_repo': 'jurrutia/echo_reactor:0.1',
+ '_abaco_execution_id': 'peVrRpyQM6N17',
+ '_abaco_username': 'urrutia',
+ '_abaco_worker_id': 'raNXjlZOXpVNz',
+ 'actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ 'actor_id': 'R4kKGm1gQ7xDV',
+ 'archivePath': 'ginkgo/novel-chassis/201808/Novelchassis-Nand-Gate/miniaturized_library_prep',
+ 'archiveSystem': 'data-sd2e-community',
+ 'content_type': None,
+ 'dataset': '201808novel_chassisGinkgo%3A${sample}',
+ 'execution_id': 'peVrRpyQM6N17',
+ 'lastAction': 'manifest',
+ 'manifestURL': 'agave://data-sd2e-community/testing/novel_chassis/new_format/ginkgo_norm_missing2.json',
+ 'message_dict': {'accepted': '2019-04-03T17:35:48.640Z',
+                  'appId': 'urrutia-rnaseq-0.1.4',
+                  'appUuid': '44532760559873560-242ac11b-0001-005',
+                  'archive': True,
+                  'archivePath': 'wrangler/alo_test',
+                  'archiveSystem': 'data-tacc-work-urrutia',
+                  'blockedCount': 0,
+                  'created': '2019-04-03T17:35:49.104Z',
+                  'ended': None,
+                  'failedStatusChecks': 0,
+                  'id': 214928,
+                  'inputs': '{}',
+                  'lastStatusCheck': None,
+                  'lastStatusMessage': 'Transitioning from status '
+                                       'PROCESSING_INPUTS to STAGED in phase '
+                                       'STAGING.',
+                  'lastUpdated': '2019-04-03T17:35:58.255Z',
+                  'maxHours': 0.83,
+                  'memoryPerNode': 1.0,
+                  'name': 'aloe-test',
+                  'nodeCount': 1,
+                  'owner': 'urrutia',
+                  'parameters': '{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}',
+                  'processorsPerNode': 1,
+                  'remoteEnded': None,
+                  'remoteJobId': None,
+                  'remoteOutcome': None,
+                  'remoteQueue': 'hadoop',
+                  'remoteStarted': None,
+                  'remoteStatusChecks': 0,
+                  'remoteSubmitted': None,
+                  'roles': 'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX',
+                  'schedulerJobId': None,
+                  'status': 'STAGED',
+                  'submitRetries': 0,
+                  'systemId': 'hpc-tacc-wrangler-urrutia',
+                  'tenantId': 'sd2e',
+                  'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue',
+                  'updateToken': 'ee03b7b0-4524-4041-a24c-7bfd67412fc9',
+                  'uuid': '4ef0e75b-eab8-4f71-ad2f-2ff9fa8e4128-007',
+                  'visible': True,
+                  'workPath': 'urrutia/job-4ef0e75b-eab8-4f71-ad2f-2ff9fa8e4128-007-aloe-test'},
+ 'queues': '%5B%27ginkgo_norm_missing2.json%3Astrain%3Astar%27%2C '
+           '%27ginkgo_norm_missing2.json%3Astrain%3Abowtie2%27%5D',
+ 'raw_message': "{'id': 214928, 'name': 'aloe-test', 'tenantId': 'sd2e', "
+                "'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue', "
+                "'status': 'STAGED', 'lastStatusMessage': 'Transitioning from "
+                "status PROCESSING_INPUTS to STAGED in phase STAGING.', "
+                "'accepted': '2019-04-03T17:35:48.640Z', 'created': "
+                "'2019-04-03T17:35:49.104Z', 'ended': None, 'lastUpdated': "
+                "'2019-04-03T17:35:58.255Z', 'uuid': "
+R4kKGm1gQ7xDV INFO successfully ran
+R4kKGm1gQ7xDV INFO successfully ran
+                "'4ef0e75b-eab8-4f71-ad2f-2ff9fa8e4128-007', 'owner': "
+                "'urrutia', 'roles': "
+                "'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX', "
+                "'systemId': 'hpc-tacc-wrangler-urrutia', 'appId': "
+                "'urrutia-rnaseq-0.1.4', 'appUuid': "
+                "'44532760559873560-242ac11b-0001-005', 'workPath': "
+                "'urrutia/job-4ef0e75b-eab8-4f71-ad2f-2ff9fa8e4128-007-aloe-test', "
+                "'archive': True, 'archivePath': 'wrangler/alo_test', "
+                "'archiveSystem': 'data-tacc-work-urrutia', 'nodeCount': 1, "
+                "'processorsPerNode': 1, 'memoryPerNode': 1.0, 'maxHours': "
+                "0.83, 'inputs': '{}', 'parameters': "
+                '\'{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}\', '
+                "'remoteJobId': None, 'schedulerJobId': None, 'remoteQueue': "
+                "'hadoop', 'remoteSubmitted': None, 'remoteStarted': None, "
+                "'remoteEnded': None, 'remoteOutcome': None, 'submitRetries': "
+                "0, 'remoteStatusChecks': 0, 'failedStatusChecks': 0, "
+                "'lastStatusCheck': None, 'blockedCount': 0, 'visible': True, "
+                "'updateToken': 'ee03b7b0-4524-4041-a24c-7bfd67412fc9'}",
+ 'raw_message_parse_log': '',
+ 'state': '{}',
+ 'transcriptReference': '%2Fwork%2Fprojects%2FSD2E-Community%2Fprod%2Fdata%2F%2Freference%2Fnovel_chassis%2Fmaster_ref',
+ 'username': 'urrutia',
+ 'x-agave-job-id': '214928',
+ 'x-execution': 'Ej0AgqkOKNmG8',
+ 'x-nonce': 'SD2E_Rj738qzZRDpeW'}
+
+[92mLogs for execution zrmKJ4a5qoaQm:[0m
+R4kKGm1gQ7xDV INFO Hello this is actor R4kKGm1gQ7xDV
+NONCE:
+{'_links': {'actor': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV', 'owner': 'https://api.sd2e.org/profiles/v2/urrutia', 'self': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV/nonces/SD2E_RezA8OJwO0xRm'}, 'actorId': 'R4kKGm1gQ7xDV', 'apiServer': 'https://api.sd2e.org', 'createTime': '2019-04-03 17:40:49.714897', 'currentUses': 0, 'description': '', 'id': 'SD2E_RezA8OJwO0xRm', 'lastUseTime': 'None', 'level': 'EXECUTE', 'maxUses': -1, 'owner': 'urrutia', 'remainingUses': -1, 'roles': ['Internal/everyone']}
+{'HOME': '/',
+ 'HOSTNAME': '70a632b9afb1',
+ 'MSG': "{'id': 214930, 'name': 'aloe-test', 'tenantId': 'sd2e', "
+        "'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue', 'status': "
+        "'PENDING', 'lastStatusMessage': 'JOBS_ACCEPTED Job accepted for "
+        "processing.', 'accepted': '2019-04-03T17:40:45.168Z', 'created': "
+        "'2019-04-03T17:40:45.205Z', 'ended': None, 'lastUpdated': "
+        "'2019-04-03T17:40:45.205Z', 'uuid': "
+        "'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007', 'owner': 'urrutia', "
+        "'roles': "
+        "'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX', "
+        "'systemId': None, 'appId': 'urrutia-rnaseq-0.1.4', 'appUuid': "
+        "'44532760559873560-242ac11b-0001-005', 'workPath': None, 'archive': "
+        "True, 'archivePath': 'wrangler/alo_test', 'archiveSystem': "
+        "'data-tacc-work-urrutia', 'nodeCount': 0, 'processorsPerNode': 0, "
+        "'memoryPerNode': 0.0, 'maxHours': 0.83, 'inputs': '{}', 'parameters': "
+        '\'{"trim":true,"sortmerna":false,"path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","minlen":36,"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","adaptersfile":"TruSeq3-PE-2.fa:2:30:10","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","multiple_lanes":false}\', '
+        "'remoteJobId': None, 'schedulerJobId': None, 'remoteQueue': None, "
+        "'remoteSubmitted': None, 'remoteStarted': None, 'remoteEnded': None, "
+        "'remoteOutcome': None, 'submitRetries': 0, 'remoteStatusChecks': 0, "
+        "'failedStatusChecks': 0, 'lastStatusCheck': None, 'blockedCount': 0, "
+        "'visible': True, 'updateToken': "
+        "'23af5c29-3e91-442b-a626-ad215b869106'}",
+ 'PATH': '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin',
+ 'REACTORS_VERSION': '0.7.6',
+ 'SCRATCH': '/mnt/ephemeral-01',
+ 'XDG_CACHE_HOME': '/tmp',
+ '_PROJ_CORRAL': '/corral',
+ '_PROJ_STOCKYARD': '/work/projects/',
+ '_REACTOR_TEMP': '/mnt/ephemeral-01',
+ '_USER_WORK': '',
+ '_abaco_Content_Type': 'application/json',
+ '_abaco_access_token': 'a183ed7cd25887a8f03ffba4464753',
+ '_abaco_actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ '_abaco_actor_id': 'R4kKGm1gQ7xDV',
+ '_abaco_actor_name': 'echo_reactor',
+ '_abaco_actor_state': '{}',
+ '_abaco_api_server': 'https://api.sd2e.org',
+ '_abaco_container_repo': 'jurrutia/echo_reactor:0.1',
+ '_abaco_execution_id': 'zrmKJ4a5qoaQm',
+ '_abaco_username': 'urrutia',
+ '_abaco_worker_id': 'raNXjlZOXpVNz',
+ 'actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ 'actor_id': 'R4kKGm1gQ7xDV',
+ 'archivePath': 'ginkgo/novel-chassis/201808/Novelchassis-Nand-Gate/miniaturized_library_prep',
+ 'archiveSystem': 'data-sd2e-community',
+ 'content_type': None,
+ 'dataset': '201808novel_chassisGinkgo%3A${sample}',
+ 'execution_id': 'zrmKJ4a5qoaQm',
+ 'lastAction': 'manifest',
+ 'manifestURL': 'agave://data-sd2e-community/testing/novel_chassis/new_format/ginkgo_norm_missing2.json',
+ 'message_dict': {'accepted': '2019-04-03T17:40:45.168Z',
+                  'appId': 'urrutia-rnaseq-0.1.4',
+                  'appUuid': '44532760559873560-242ac11b-0001-005',
+                  'archive': True,
+                  'archivePath': 'wrangler/alo_test',
+                  'archiveSystem': 'data-tacc-work-urrutia',
+                  'blockedCount': 0,
+                  'created': '2019-04-03T17:40:45.205Z',
+                  'ended': None,
+                  'failedStatusChecks': 0,
+                  'id': 214930,
+                  'inputs': '{}',
+                  'lastStatusCheck': None,
+                  'lastStatusMessage': 'JOBS_ACCEPTED Job accepted for '
+                                       'processing.',
+                  'lastUpdated': '2019-04-03T17:40:45.205Z',
+                  'maxHours': 0.83,
+                  'memoryPerNode': 0.0,
+                  'name': 'aloe-test',
+                  'nodeCount': 0,
+                  'owner': 'urrutia',
+                  'parameters': '{"trim":true,"sortmerna":false,"path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","minlen":36,"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","adaptersfile":"TruSeq3-PE-2.fa:2:30:10","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","multiple_lanes":false}',
+                  'processorsPerNode': 0,
+                  'remoteEnded': None,
+                  'remoteJobId': None,
+                  'remoteOutcome': None,
+                  'remoteQueue': None,
+                  'remoteStarted': None,
+                  'remoteStatusChecks': 0,
+                  'remoteSubmitted': None,
+                  'roles': 'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX',
+                  'schedulerJobId': None,
+                  'status': 'PENDING',
+                  'submitRetries': 0,
+                  'systemId': None,
+                  'tenantId': 'sd2e',
+                  'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue',
+                  'updateToken': '23af5c29-3e91-442b-a626-ad215b869106',
+                  'uuid': 'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007',
+                  'visible': True,
+                  'workPath': None},
+ 'queues': '%5B%27ginkgo_norm_missing2.json%3Astrain%3Astar%27%2C '
+           '%27ginkgo_norm_missing2.json%3Astrain%3Abowtie2%27%5D',
+ 'raw_message': "{'id': 214930, 'name': 'aloe-test', 'tenantId': 'sd2e', "
+                "'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue', "
+                "'status': 'PENDING', 'lastStatusMessage': 'JOBS_ACCEPTED Job "
+                "accepted for processing.', 'accepted': "
+                "'2019-04-03T17:40:45.168Z', 'created': "
+                "'2019-04-03T17:40:45.205Z', 'ended': None, 'lastUpdated': "
+                "'2019-04-03T17:40:45.205Z', 'uuid': "
+                "'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007', 'owner': "
+                "'urrutia', 'roles': "
+R4kKGm1gQ7xDV INFO successfully ran
+R4kKGm1gQ7xDV INFO successfully ran
+                "'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX', "
+                "'systemId': None, 'appId': 'urrutia-rnaseq-0.1.4', 'appUuid': "
+                "'44532760559873560-242ac11b-0001-005', 'workPath': None, "
+                "'archive': True, 'archivePath': 'wrangler/alo_test', "
+                "'archiveSystem': 'data-tacc-work-urrutia', 'nodeCount': 0, "
+                "'processorsPerNode': 0, 'memoryPerNode': 0.0, 'maxHours': "
+                "0.83, 'inputs': '{}', 'parameters': "
+                '\'{"trim":true,"sortmerna":false,"path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","minlen":36,"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","adaptersfile":"TruSeq3-PE-2.fa:2:30:10","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","multiple_lanes":false}\', '
+                "'remoteJobId': None, 'schedulerJobId': None, 'remoteQueue': "
+                "None, 'remoteSubmitted': None, 'remoteStarted': None, "
+                "'remoteEnded': None, 'remoteOutcome': None, 'submitRetries': "
+                "0, 'remoteStatusChecks': 0, 'failedStatusChecks': 0, "
+                "'lastStatusCheck': None, 'blockedCount': 0, 'visible': True, "
+                "'updateToken': '23af5c29-3e91-442b-a626-ad215b869106'}",
+ 'raw_message_parse_log': '',
+ 'state': '{}',
+ 'transcriptReference': '%2Fwork%2Fprojects%2FSD2E-Community%2Fprod%2Fdata%2F%2Freference%2Fnovel_chassis%2Fmaster_ref',
+ 'username': 'urrutia',
+ 'x-agave-job-id': '214930',
+ 'x-execution': 'Ej0AgqkOKNmG8',
+ 'x-nonce': 'SD2E_Rj738qzZRDpeW'}
+
+[92mLogs for execution 0XLVe8eGqqv6B:[0m
+R4kKGm1gQ7xDV INFO Hello this is actor R4kKGm1gQ7xDV
+NONCE:
+{'_links': {'actor': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV', 'owner': 'https://api.sd2e.org/profiles/v2/urrutia', 'self': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV/nonces/SD2E_Yv35XKwLMxMM5'}, 'actorId': 'R4kKGm1gQ7xDV', 'apiServer': 'https://api.sd2e.org', 'createTime': '2019-04-03 17:40:56.300423', 'currentUses': 0, 'description': '', 'id': 'SD2E_Yv35XKwLMxMM5', 'lastUseTime': 'None', 'level': 'EXECUTE', 'maxUses': -1, 'owner': 'urrutia', 'remainingUses': -1, 'roles': ['Internal/everyone']}
+{'HOME': '/',
+ 'HOSTNAME': '897415879ce2',
+ 'MSG': "{'id': 214930, 'name': 'aloe-test', 'tenantId': 'sd2e', "
+        "'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue', 'status': "
+        "'PROCESSING_INPUTS', 'lastStatusMessage': "
+        "'JOBS_INITIAL_INPUT_VALIDATION_COMPLETE Initial input validation "
+        "complete for job e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007.', "
+        "'accepted': '2019-04-03T17:40:45.168Z', 'created': "
+        "'2019-04-03T17:40:45.205Z', 'ended': None, 'lastUpdated': "
+        "'2019-04-03T17:40:45.205Z', 'uuid': "
+        "'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007', 'owner': 'urrutia', "
+        "'roles': "
+        "'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX', "
+        "'systemId': 'hpc-tacc-wrangler-urrutia', 'appId': "
+        "'urrutia-rnaseq-0.1.4', 'appUuid': "
+        "'44532760559873560-242ac11b-0001-005', 'workPath': None, 'archive': "
+        "True, 'archivePath': 'wrangler/alo_test', 'archiveSystem': "
+        "'data-tacc-work-urrutia', 'nodeCount': 1, 'processorsPerNode': 1, "
+        "'memoryPerNode': 1.0, 'maxHours': 0.83, 'inputs': '{}', 'parameters': "
+        '\'{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}\', '
+        "'remoteJobId': None, 'schedulerJobId': None, 'remoteQueue': 'hadoop', "
+        "'remoteSubmitted': None, 'remoteStarted': None, 'remoteEnded': None, "
+        "'remoteOutcome': None, 'submitRetries': 0, 'remoteStatusChecks': 0, "
+        "'failedStatusChecks': 0, 'lastStatusCheck': None, 'blockedCount': 0, "
+        "'visible': True, 'updateToken': "
+        "'23af5c29-3e91-442b-a626-ad215b869106'}",
+ 'PATH': '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin',
+ 'REACTORS_VERSION': '0.7.6',
+ 'SCRATCH': '/mnt/ephemeral-01',
+ 'XDG_CACHE_HOME': '/tmp',
+ '_PROJ_CORRAL': '/corral',
+ '_PROJ_STOCKYARD': '/work/projects/',
+ '_REACTOR_TEMP': '/mnt/ephemeral-01',
+ '_USER_WORK': '',
+ '_abaco_Content_Type': 'application/json',
+ '_abaco_access_token': '21b2ea6e2f26141f96d746671e1fe7',
+ '_abaco_actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ '_abaco_actor_id': 'R4kKGm1gQ7xDV',
+ '_abaco_actor_name': 'echo_reactor',
+ '_abaco_actor_state': '{}',
+ '_abaco_api_server': 'https://api.sd2e.org',
+ '_abaco_container_repo': 'jurrutia/echo_reactor:0.1',
+ '_abaco_execution_id': '0XLVe8eGqqv6B',
+ '_abaco_username': 'urrutia',
+ '_abaco_worker_id': 'raNXjlZOXpVNz',
+ 'actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ 'actor_id': 'R4kKGm1gQ7xDV',
+ 'archivePath': 'ginkgo/novel-chassis/201808/Novelchassis-Nand-Gate/miniaturized_library_prep',
+ 'archiveSystem': 'data-sd2e-community',
+ 'content_type': None,
+ 'dataset': '201808novel_chassisGinkgo%3A${sample}',
+ 'execution_id': '0XLVe8eGqqv6B',
+ 'lastAction': 'manifest',
+ 'manifestURL': 'agave://data-sd2e-community/testing/novel_chassis/new_format/ginkgo_norm_missing2.json',
+ 'message_dict': {'accepted': '2019-04-03T17:40:45.168Z',
+                  'appId': 'urrutia-rnaseq-0.1.4',
+                  'appUuid': '44532760559873560-242ac11b-0001-005',
+                  'archive': True,
+                  'archivePath': 'wrangler/alo_test',
+                  'archiveSystem': 'data-tacc-work-urrutia',
+                  'blockedCount': 0,
+                  'created': '2019-04-03T17:40:45.205Z',
+                  'ended': None,
+                  'failedStatusChecks': 0,
+                  'id': 214930,
+                  'inputs': '{}',
+                  'lastStatusCheck': None,
+                  'lastStatusMessage': 'JOBS_INITIAL_INPUT_VALIDATION_COMPLETE '
+                                       'Initial input validation complete for '
+                                       'job '
+                                       'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007.',
+                  'lastUpdated': '2019-04-03T17:40:45.205Z',
+                  'maxHours': 0.83,
+                  'memoryPerNode': 1.0,
+                  'name': 'aloe-test',
+                  'nodeCount': 1,
+                  'owner': 'urrutia',
+                  'parameters': '{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}',
+                  'processorsPerNode': 1,
+                  'remoteEnded': None,
+                  'remoteJobId': None,
+                  'remoteOutcome': None,
+                  'remoteQueue': 'hadoop',
+                  'remoteStarted': None,
+                  'remoteStatusChecks': 0,
+                  'remoteSubmitted': None,
+                  'roles': 'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX',
+                  'schedulerJobId': None,
+                  'status': 'PROCESSING_INPUTS',
+                  'submitRetries': 0,
+                  'systemId': 'hpc-tacc-wrangler-urrutia',
+                  'tenantId': 'sd2e',
+                  'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue',
+                  'updateToken': '23af5c29-3e91-442b-a626-ad215b869106',
+                  'uuid': 'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007',
+                  'visible': True,
+                  'workPath': None},
+ 'queues': '%5B%27ginkgo_norm_missing2.json%3Astrain%3Astar%27%2C '
+           '%27ginkgo_norm_missing2.json%3Astrain%3Abowtie2%27%5D',
+ 'raw_message': "{'id': 214930, 'name': 'aloe-test', 'tenantId': 'sd2e', "
+                "'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue', "
+                "'status': 'PROCESSING_INPUTS', 'lastStatusMessage': "
+                "'JOBS_INITIAL_INPUT_VALIDATION_COMPLETE Initial input "
+                'validation complete for job '
+R4kKGm1gQ7xDV INFO successfully ran
+R4kKGm1gQ7xDV INFO successfully ran
+                "e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007.', 'accepted': "
+                "'2019-04-03T17:40:45.168Z', 'created': "
+                "'2019-04-03T17:40:45.205Z', 'ended': None, 'lastUpdated': "
+                "'2019-04-03T17:40:45.205Z', 'uuid': "
+                "'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007', 'owner': "
+                "'urrutia', 'roles': "
+                "'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX', "
+                "'systemId': 'hpc-tacc-wrangler-urrutia', 'appId': "
+                "'urrutia-rnaseq-0.1.4', 'appUuid': "
+                "'44532760559873560-242ac11b-0001-005', 'workPath': None, "
+                "'archive': True, 'archivePath': 'wrangler/alo_test', "
+                "'archiveSystem': 'data-tacc-work-urrutia', 'nodeCount': 1, "
+                "'processorsPerNode': 1, 'memoryPerNode': 1.0, 'maxHours': "
+                "0.83, 'inputs': '{}', 'parameters': "
+                '\'{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}\', '
+                "'remoteJobId': None, 'schedulerJobId': None, 'remoteQueue': "
+                "'hadoop', 'remoteSubmitted': None, 'remoteStarted': None, "
+                "'remoteEnded': None, 'remoteOutcome': None, 'submitRetries': "
+                "0, 'remoteStatusChecks': 0, 'failedStatusChecks': 0, "
+                "'lastStatusCheck': None, 'blockedCount': 0, 'visible': True, "
+                "'updateToken': '23af5c29-3e91-442b-a626-ad215b869106'}",
+ 'raw_message_parse_log': '',
+ 'state': '{}',
+ 'transcriptReference': '%2Fwork%2Fprojects%2FSD2E-Community%2Fprod%2Fdata%2F%2Freference%2Fnovel_chassis%2Fmaster_ref',
+ 'username': 'urrutia',
+ 'x-agave-job-id': '214930',
+ 'x-execution': 'Ej0AgqkOKNmG8',
+ 'x-nonce': 'SD2E_Rj738qzZRDpeW'}
+
+[92mLogs for execution Re65Pvrl7yk1m:[0m
+R4kKGm1gQ7xDV INFO Hello this is actor R4kKGm1gQ7xDV
+NONCE:
+{'_links': {'actor': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV', 'owner': 'https://api.sd2e.org/profiles/v2/urrutia', 'self': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV/nonces/SD2E_p3LR87Y6V4bp7'}, 'actorId': 'R4kKGm1gQ7xDV', 'apiServer': 'https://api.sd2e.org', 'createTime': '2019-04-03 17:41:01.517764', 'currentUses': 0, 'description': '', 'id': 'SD2E_p3LR87Y6V4bp7', 'lastUseTime': 'None', 'level': 'EXECUTE', 'maxUses': -1, 'owner': 'urrutia', 'remainingUses': -1, 'roles': ['Internal/everyone']}
+{'HOME': '/',
+R4kKGm1gQ7xDV INFO successfully ran
+R4kKGm1gQ7xDV INFO successfully ran
+ 'HOSTNAME': 'fcae438c1042',
+ 'MSG': "{'id': 214930, 'name': 'aloe-test', 'tenantId': 'sd2e', "
+        "'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue', 'status': "
+        "'PROCESSING_INPUTS', 'lastStatusMessage': "
+        "'JOBS_INITIAL_INPUT_VALIDATION_COMPLETE Initial input validation "
+        "complete for job e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007.', "
+        "'accepted': '2019-04-03T17:40:45.168Z', 'created': "
+        "'2019-04-03T17:40:45.205Z', 'ended': None, 'lastUpdated': "
+        "'2019-04-03T17:40:45.312Z', 'uuid': "
+        "'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007', 'owner': 'urrutia', "
+        "'roles': "
+        "'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX', "
+        "'systemId': 'hpc-tacc-wrangler-urrutia', 'appId': "
+        "'urrutia-rnaseq-0.1.4', 'appUuid': "
+        "'44532760559873560-242ac11b-0001-005', 'workPath': None, 'archive': "
+        "True, 'archivePath': 'wrangler/alo_test', 'archiveSystem': "
+        "'data-tacc-work-urrutia', 'nodeCount': 1, 'processorsPerNode': 1, "
+        "'memoryPerNode': 1.0, 'maxHours': 0.83, 'inputs': '{}', 'parameters': "
+        '\'{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}\', '
+        "'remoteJobId': None, 'schedulerJobId': None, 'remoteQueue': 'hadoop', "
+        "'remoteSubmitted': None, 'remoteStarted': None, 'remoteEnded': None, "
+        "'remoteOutcome': None, 'submitRetries': 0, 'remoteStatusChecks': 0, "
+        "'failedStatusChecks': 0, 'lastStatusCheck': None, 'blockedCount': 0, "
+        "'visible': True, 'updateToken': "
+        "'23af5c29-3e91-442b-a626-ad215b869106'}",
+ 'PATH': '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin',
+ 'REACTORS_VERSION': '0.7.6',
+ 'SCRATCH': '/mnt/ephemeral-01',
+ 'XDG_CACHE_HOME': '/tmp',
+ '_PROJ_CORRAL': '/corral',
+ '_PROJ_STOCKYARD': '/work/projects/',
+ '_REACTOR_TEMP': '/mnt/ephemeral-01',
+ '_USER_WORK': '',
+ '_abaco_Content_Type': 'application/json',
+ '_abaco_access_token': '9b9c541e8c5589d6574cd0d51327fb86',
+ '_abaco_actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ '_abaco_actor_id': 'R4kKGm1gQ7xDV',
+ '_abaco_actor_name': 'echo_reactor',
+ '_abaco_actor_state': '{}',
+ '_abaco_api_server': 'https://api.sd2e.org',
+ '_abaco_container_repo': 'jurrutia/echo_reactor:0.1',
+ '_abaco_execution_id': 'Re65Pvrl7yk1m',
+ '_abaco_username': 'urrutia',
+ '_abaco_worker_id': 'raNXjlZOXpVNz',
+ 'actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ 'actor_id': 'R4kKGm1gQ7xDV',
+ 'archivePath': 'ginkgo/novel-chassis/201808/Novelchassis-Nand-Gate/miniaturized_library_prep',
+ 'archiveSystem': 'data-sd2e-community',
+ 'content_type': None,
+ 'dataset': '201808novel_chassisGinkgo%3A${sample}',
+ 'execution_id': 'Re65Pvrl7yk1m',
+ 'lastAction': 'manifest',
+ 'manifestURL': 'agave://data-sd2e-community/testing/novel_chassis/new_format/ginkgo_norm_missing2.json',
+ 'message_dict': {'accepted': '2019-04-03T17:40:45.168Z',
+                  'appId': 'urrutia-rnaseq-0.1.4',
+                  'appUuid': '44532760559873560-242ac11b-0001-005',
+                  'archive': True,
+                  'archivePath': 'wrangler/alo_test',
+                  'archiveSystem': 'data-tacc-work-urrutia',
+                  'blockedCount': 0,
+                  'created': '2019-04-03T17:40:45.205Z',
+                  'ended': None,
+                  'failedStatusChecks': 0,
+                  'id': 214930,
+                  'inputs': '{}',
+                  'lastStatusCheck': None,
+                  'lastStatusMessage': 'JOBS_INITIAL_INPUT_VALIDATION_COMPLETE '
+                                       'Initial input validation complete for '
+                                       'job '
+                                       'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007.',
+                  'lastUpdated': '2019-04-03T17:40:45.312Z',
+                  'maxHours': 0.83,
+                  'memoryPerNode': 1.0,
+                  'name': 'aloe-test',
+                  'nodeCount': 1,
+                  'owner': 'urrutia',
+                  'parameters': '{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}',
+                  'processorsPerNode': 1,
+                  'remoteEnded': None,
+                  'remoteJobId': None,
+                  'remoteOutcome': None,
+                  'remoteQueue': 'hadoop',
+                  'remoteStarted': None,
+                  'remoteStatusChecks': 0,
+                  'remoteSubmitted': None,
+                  'roles': 'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX',
+                  'schedulerJobId': None,
+                  'status': 'PROCESSING_INPUTS',
+                  'submitRetries': 0,
+                  'systemId': 'hpc-tacc-wrangler-urrutia',
+                  'tenantId': 'sd2e',
+                  'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue',
+                  'updateToken': '23af5c29-3e91-442b-a626-ad215b869106',
+                  'uuid': 'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007',
+                  'visible': True,
+                  'workPath': None},
+ 'queues': '%5B%27ginkgo_norm_missing2.json%3Astrain%3Astar%27%2C '
+           '%27ginkgo_norm_missing2.json%3Astrain%3Abowtie2%27%5D',
+ 'raw_message': "{'id': 214930, 'name': 'aloe-test', 'tenantId': 'sd2e', "
+                "'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue', "
+                "'status': 'PROCESSING_INPUTS', 'lastStatusMessage': "
+                "'JOBS_INITIAL_INPUT_VALIDATION_COMPLETE Initial input "
+                'validation complete for job '
+                "e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007.', 'accepted': "
+                "'2019-04-03T17:40:45.168Z', 'created': "
+                "'2019-04-03T17:40:45.205Z', 'ended': None, 'lastUpdated': "
+                "'2019-04-03T17:40:45.312Z', 'uuid': "
+                "'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007', 'owner': "
+                "'urrutia', 'roles': "
+                "'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX', "
+                "'systemId': 'hpc-tacc-wrangler-urrutia', 'appId': "
+                "'urrutia-rnaseq-0.1.4', 'appUuid': "
+                "'44532760559873560-242ac11b-0001-005', 'workPath': None, "
+                "'archive': True, 'archivePath': 'wrangler/alo_test', "
+                "'archiveSystem': 'data-tacc-work-urrutia', 'nodeCount': 1, "
+                "'processorsPerNode': 1, 'memoryPerNode': 1.0, 'maxHours': "
+                "0.83, 'inputs': '{}', 'parameters': "
+                '\'{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}\', '
+                "'remoteJobId': None, 'schedulerJobId': None, 'remoteQueue': "
+                "'hadoop', 'remoteSubmitted': None, 'remoteStarted': None, "
+                "'remoteEnded': None, 'remoteOutcome': None, 'submitRetries': "
+                "0, 'remoteStatusChecks': 0, 'failedStatusChecks': 0, "
+                "'lastStatusCheck': None, 'blockedCount': 0, 'visible': True, "
+                "'updateToken': '23af5c29-3e91-442b-a626-ad215b869106'}",
+ 'raw_message_parse_log': '',
+ 'state': '{}',
+ 'transcriptReference': '%2Fwork%2Fprojects%2FSD2E-Community%2Fprod%2Fdata%2F%2Freference%2Fnovel_chassis%2Fmaster_ref',
+ 'username': 'urrutia',
+ 'x-agave-job-id': '214930',
+ 'x-execution': 'Ej0AgqkOKNmG8',
+ 'x-nonce': 'SD2E_Rj738qzZRDpeW'}
+
+[92mLogs for execution o4YK1rp3ERyqB:[0m
+R4kKGm1gQ7xDV INFO Hello this is actor R4kKGm1gQ7xDV
+NONCE:
+{'_links': {'actor': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV', 'owner': 'https://api.sd2e.org/profiles/v2/urrutia', 'self': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV/nonces/SD2E_qe3R7rAKkv1Wk'}, 'actorId': 'R4kKGm1gQ7xDV', 'apiServer': 'https://api.sd2e.org', 'createTime': '2019-04-03 17:41:08.097803', 'currentUses': 0, 'description': '', 'id': 'SD2E_qe3R7rAKkv1Wk', 'lastUseTime': 'None', 'level': 'EXECUTE', 'maxUses': -1, 'owner': 'urrutia', 'remainingUses': -1, 'roles': ['Internal/everyone']}
+{'HOME': '/',
+ 'HOSTNAME': '4a64e3ab1f23',
+ 'MSG': "{'id': 214930, 'name': 'aloe-test', 'tenantId': 'sd2e', "
+        "'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue', 'status': "
+        "'STAGED', 'lastStatusMessage': 'Transitioning from status "
+        "PROCESSING_INPUTS to STAGED in phase STAGING.', 'accepted': "
+        "'2019-04-03T17:40:45.168Z', 'created': '2019-04-03T17:40:45.205Z', "
+        "'ended': None, 'lastUpdated': '2019-04-03T17:40:48.219Z', 'uuid': "
+        "'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007', 'owner': 'urrutia', "
+        "'roles': "
+        "'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX', "
+        "'systemId': 'hpc-tacc-wrangler-urrutia', 'appId': "
+        "'urrutia-rnaseq-0.1.4', 'appUuid': "
+        "'44532760559873560-242ac11b-0001-005', 'workPath': "
+        "'urrutia/job-e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007-aloe-test', "
+        "'archive': True, 'archivePath': 'wrangler/alo_test', 'archiveSystem': "
+        "'data-tacc-work-urrutia', 'nodeCount': 1, 'processorsPerNode': 1, "
+        "'memoryPerNode': 1.0, 'maxHours': 0.83, 'inputs': '{}', 'parameters': "
+        '\'{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}\', '
+        "'remoteJobId': None, 'schedulerJobId': None, 'remoteQueue': 'hadoop', "
+        "'remoteSubmitted': None, 'remoteStarted': None, 'remoteEnded': None, "
+        "'remoteOutcome': None, 'submitRetries': 0, 'remoteStatusChecks': 0, "
+        "'failedStatusChecks': 0, 'lastStatusCheck': None, 'blockedCount': 0, "
+        "'visible': True, 'updateToken': "
+        "'23af5c29-3e91-442b-a626-ad215b869106'}",
+ 'PATH': '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin',
+ 'REACTORS_VERSION': '0.7.6',
+ 'SCRATCH': '/mnt/ephemeral-01',
+ 'XDG_CACHE_HOME': '/tmp',
+ '_PROJ_CORRAL': '/corral',
+ '_PROJ_STOCKYARD': '/work/projects/',
+ '_REACTOR_TEMP': '/mnt/ephemeral-01',
+ '_USER_WORK': '',
+ '_abaco_Content_Type': 'application/json',
+ '_abaco_access_token': 'c199979dc682826f5b1a9739b85b78e',
+ '_abaco_actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ '_abaco_actor_id': 'R4kKGm1gQ7xDV',
+ '_abaco_actor_name': 'echo_reactor',
+ '_abaco_actor_state': '{}',
+ '_abaco_api_server': 'https://api.sd2e.org',
+ '_abaco_container_repo': 'jurrutia/echo_reactor:0.1',
+ '_abaco_execution_id': 'o4YK1rp3ERyqB',
+ '_abaco_username': 'urrutia',
+ '_abaco_worker_id': 'raNXjlZOXpVNz',
+ 'actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ 'actor_id': 'R4kKGm1gQ7xDV',
+ 'archivePath': 'ginkgo/novel-chassis/201808/Novelchassis-Nand-Gate/miniaturized_library_prep',
+ 'archiveSystem': 'data-sd2e-community',
+ 'content_type': None,
+ 'dataset': '201808novel_chassisGinkgo%3A${sample}',
+ 'execution_id': 'o4YK1rp3ERyqB',
+ 'lastAction': 'manifest',
+ 'manifestURL': 'agave://data-sd2e-community/testing/novel_chassis/new_format/ginkgo_norm_missing2.json',
+ 'message_dict': {'accepted': '2019-04-03T17:40:45.168Z',
+                  'appId': 'urrutia-rnaseq-0.1.4',
+                  'appUuid': '44532760559873560-242ac11b-0001-005',
+                  'archive': True,
+                  'archivePath': 'wrangler/alo_test',
+                  'archiveSystem': 'data-tacc-work-urrutia',
+                  'blockedCount': 0,
+                  'created': '2019-04-03T17:40:45.205Z',
+                  'ended': None,
+                  'failedStatusChecks': 0,
+                  'id': 214930,
+                  'inputs': '{}',
+                  'lastStatusCheck': None,
+                  'lastStatusMessage': 'Transitioning from status '
+R4kKGm1gQ7xDV INFO successfully ran
+R4kKGm1gQ7xDV INFO successfully ran
+                                       'PROCESSING_INPUTS to STAGED in phase '
+                                       'STAGING.',
+                  'lastUpdated': '2019-04-03T17:40:48.219Z',
+                  'maxHours': 0.83,
+                  'memoryPerNode': 1.0,
+                  'name': 'aloe-test',
+                  'nodeCount': 1,
+                  'owner': 'urrutia',
+                  'parameters': '{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}',
+                  'processorsPerNode': 1,
+                  'remoteEnded': None,
+                  'remoteJobId': None,
+                  'remoteOutcome': None,
+                  'remoteQueue': 'hadoop',
+                  'remoteStarted': None,
+                  'remoteStatusChecks': 0,
+                  'remoteSubmitted': None,
+                  'roles': 'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX',
+                  'schedulerJobId': None,
+                  'status': 'STAGED',
+                  'submitRetries': 0,
+                  'systemId': 'hpc-tacc-wrangler-urrutia',
+                  'tenantId': 'sd2e',
+                  'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue',
+                  'updateToken': '23af5c29-3e91-442b-a626-ad215b869106',
+                  'uuid': 'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007',
+                  'visible': True,
+                  'workPath': 'urrutia/job-e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007-aloe-test'},
+ 'queues': '%5B%27ginkgo_norm_missing2.json%3Astrain%3Astar%27%2C '
+           '%27ginkgo_norm_missing2.json%3Astrain%3Abowtie2%27%5D',
+ 'raw_message': "{'id': 214930, 'name': 'aloe-test', 'tenantId': 'sd2e', "
+                "'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue', "
+                "'status': 'STAGED', 'lastStatusMessage': 'Transitioning from "
+                "status PROCESSING_INPUTS to STAGED in phase STAGING.', "
+                "'accepted': '2019-04-03T17:40:45.168Z', 'created': "
+                "'2019-04-03T17:40:45.205Z', 'ended': None, 'lastUpdated': "
+                "'2019-04-03T17:40:48.219Z', 'uuid': "
+                "'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007', 'owner': "
+                "'urrutia', 'roles': "
+                "'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX', "
+                "'systemId': 'hpc-tacc-wrangler-urrutia', 'appId': "
+                "'urrutia-rnaseq-0.1.4', 'appUuid': "
+                "'44532760559873560-242ac11b-0001-005', 'workPath': "
+                "'urrutia/job-e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007-aloe-test', "
+                "'archive': True, 'archivePath': 'wrangler/alo_test', "
+                "'archiveSystem': 'data-tacc-work-urrutia', 'nodeCount': 1, "
+                "'processorsPerNode': 1, 'memoryPerNode': 1.0, 'maxHours': "
+                "0.83, 'inputs': '{}', 'parameters': "
+                '\'{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}\', '
+                "'remoteJobId': None, 'schedulerJobId': None, 'remoteQueue': "
+                "'hadoop', 'remoteSubmitted': None, 'remoteStarted': None, "
+                "'remoteEnded': None, 'remoteOutcome': None, 'submitRetries': "
+                "0, 'remoteStatusChecks': 0, 'failedStatusChecks': 0, "
+                "'lastStatusCheck': None, 'blockedCount': 0, 'visible': True, "
+                "'updateToken': '23af5c29-3e91-442b-a626-ad215b869106'}",
+ 'raw_message_parse_log': '',
+ 'state': '{}',
+ 'transcriptReference': '%2Fwork%2Fprojects%2FSD2E-Community%2Fprod%2Fdata%2F%2Freference%2Fnovel_chassis%2Fmaster_ref',
+ 'username': 'urrutia',
+ 'x-agave-job-id': '214930',
+ 'x-execution': 'Ej0AgqkOKNmG8',
+ 'x-nonce': 'SD2E_Rj738qzZRDpeW'}
+
+[92mLogs for execution 0X17ONbr1KZqE:[0m
+R4kKGm1gQ7xDV INFO Hello this is actor R4kKGm1gQ7xDV
+NONCE:
+{'_links': {'actor': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV', 'owner': 'https://api.sd2e.org/profiles/v2/urrutia', 'self': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV/nonces/SD2E_R7gX0ZGyRx5Ym'}, 'actorId': 'R4kKGm1gQ7xDV', 'apiServer': 'https://api.sd2e.org', 'createTime': '2019-04-03 17:41:13.092781', 'currentUses': 0, 'description': '', 'id': 'SD2E_R7gX0ZGyRx5Ym', 'lastUseTime': 'None', 'level': 'EXECUTE', 'maxUses': -1, 'owner': 'urrutia', 'remainingUses': -1, 'roles': ['Internal/everyone']}
+{'HOME': '/',
+ 'HOSTNAME': '674c96c29c2d',
+ 'MSG': "{'id': 214930, 'name': 'aloe-test', 'tenantId': 'sd2e', "
+        "'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue', 'status': "
+        "'STAGING_JOB', 'lastStatusMessage': 'Transitioning from status STAGED "
+        "to STAGING_JOB in phase SUBMITTING.', 'accepted': "
+R4kKGm1gQ7xDV INFO successfully ran
+R4kKGm1gQ7xDV INFO successfully ran
+        "'2019-04-03T17:40:45.168Z', 'created': '2019-04-03T17:40:45.205Z', "
+        "'ended': None, 'lastUpdated': '2019-04-03T17:40:48.259Z', 'uuid': "
+        "'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007', 'owner': 'urrutia', "
+        "'roles': "
+        "'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX', "
+        "'systemId': 'hpc-tacc-wrangler-urrutia', 'appId': "
+        "'urrutia-rnaseq-0.1.4', 'appUuid': "
+        "'44532760559873560-242ac11b-0001-005', 'workPath': "
+        "'urrutia/job-e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007-aloe-test', "
+        "'archive': True, 'archivePath': 'wrangler/alo_test', 'archiveSystem': "
+        "'data-tacc-work-urrutia', 'nodeCount': 1, 'processorsPerNode': 1, "
+        "'memoryPerNode': 1.0, 'maxHours': 0.83, 'inputs': '{}', 'parameters': "
+        '\'{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}\', '
+        "'remoteJobId': None, 'schedulerJobId': None, 'remoteQueue': 'hadoop', "
+        "'remoteSubmitted': None, 'remoteStarted': None, 'remoteEnded': None, "
+        "'remoteOutcome': None, 'submitRetries': 0, 'remoteStatusChecks': 0, "
+        "'failedStatusChecks': 0, 'lastStatusCheck': None, 'blockedCount': 0, "
+        "'visible': True, 'updateToken': "
+        "'23af5c29-3e91-442b-a626-ad215b869106'}",
+ 'PATH': '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin',
+ 'REACTORS_VERSION': '0.7.6',
+ 'SCRATCH': '/mnt/ephemeral-01',
+ 'XDG_CACHE_HOME': '/tmp',
+ '_PROJ_CORRAL': '/corral',
+ '_PROJ_STOCKYARD': '/work/projects/',
+ '_REACTOR_TEMP': '/mnt/ephemeral-01',
+ '_USER_WORK': '',
+ '_abaco_Content_Type': 'application/json',
+ '_abaco_access_token': 'ee28066d2dc8ca6926a3fe6a7c3414',
+ '_abaco_actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ '_abaco_actor_id': 'R4kKGm1gQ7xDV',
+ '_abaco_actor_name': 'echo_reactor',
+ '_abaco_actor_state': '{}',
+ '_abaco_api_server': 'https://api.sd2e.org',
+ '_abaco_container_repo': 'jurrutia/echo_reactor:0.1',
+ '_abaco_execution_id': '0X17ONbr1KZqE',
+ '_abaco_username': 'urrutia',
+ '_abaco_worker_id': 'raNXjlZOXpVNz',
+ 'actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ 'actor_id': 'R4kKGm1gQ7xDV',
+ 'archivePath': 'ginkgo/novel-chassis/201808/Novelchassis-Nand-Gate/miniaturized_library_prep',
+ 'archiveSystem': 'data-sd2e-community',
+ 'content_type': None,
+ 'dataset': '201808novel_chassisGinkgo%3A${sample}',
+ 'execution_id': '0X17ONbr1KZqE',
+ 'lastAction': 'manifest',
+ 'manifestURL': 'agave://data-sd2e-community/testing/novel_chassis/new_format/ginkgo_norm_missing2.json',
+ 'message_dict': {'accepted': '2019-04-03T17:40:45.168Z',
+                  'appId': 'urrutia-rnaseq-0.1.4',
+                  'appUuid': '44532760559873560-242ac11b-0001-005',
+                  'archive': True,
+                  'archivePath': 'wrangler/alo_test',
+                  'archiveSystem': 'data-tacc-work-urrutia',
+                  'blockedCount': 0,
+                  'created': '2019-04-03T17:40:45.205Z',
+                  'ended': None,
+                  'failedStatusChecks': 0,
+                  'id': 214930,
+                  'inputs': '{}',
+                  'lastStatusCheck': None,
+                  'lastStatusMessage': 'Transitioning from status STAGED to '
+                                       'STAGING_JOB in phase SUBMITTING.',
+                  'lastUpdated': '2019-04-03T17:40:48.259Z',
+                  'maxHours': 0.83,
+                  'memoryPerNode': 1.0,
+                  'name': 'aloe-test',
+                  'nodeCount': 1,
+                  'owner': 'urrutia',
+                  'parameters': '{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}',
+                  'processorsPerNode': 1,
+                  'remoteEnded': None,
+                  'remoteJobId': None,
+                  'remoteOutcome': None,
+                  'remoteQueue': 'hadoop',
+                  'remoteStarted': None,
+                  'remoteStatusChecks': 0,
+                  'remoteSubmitted': None,
+                  'roles': 'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX',
+                  'schedulerJobId': None,
+                  'status': 'STAGING_JOB',
+                  'submitRetries': 0,
+                  'systemId': 'hpc-tacc-wrangler-urrutia',
+                  'tenantId': 'sd2e',
+                  'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue',
+                  'updateToken': '23af5c29-3e91-442b-a626-ad215b869106',
+                  'uuid': 'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007',
+                  'visible': True,
+                  'workPath': 'urrutia/job-e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007-aloe-test'},
+ 'queues': '%5B%27ginkgo_norm_missing2.json%3Astrain%3Astar%27%2C '
+           '%27ginkgo_norm_missing2.json%3Astrain%3Abowtie2%27%5D',
+ 'raw_message': "{'id': 214930, 'name': 'aloe-test', 'tenantId': 'sd2e', "
+                "'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue', "
+                "'status': 'STAGING_JOB', 'lastStatusMessage': 'Transitioning "
+                "from status STAGED to STAGING_JOB in phase SUBMITTING.', "
+                "'accepted': '2019-04-03T17:40:45.168Z', 'created': "
+                "'2019-04-03T17:40:45.205Z', 'ended': None, 'lastUpdated': "
+                "'2019-04-03T17:40:48.259Z', 'uuid': "
+                "'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007', 'owner': "
+                "'urrutia', 'roles': "
+                "'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX', "
+                "'systemId': 'hpc-tacc-wrangler-urrutia', 'appId': "
+                "'urrutia-rnaseq-0.1.4', 'appUuid': "
+                "'44532760559873560-242ac11b-0001-005', 'workPath': "
+                "'urrutia/job-e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007-aloe-test', "
+                "'archive': True, 'archivePath': 'wrangler/alo_test', "
+                "'archiveSystem': 'data-tacc-work-urrutia', 'nodeCount': 1, "
+                "'processorsPerNode': 1, 'memoryPerNode': 1.0, 'maxHours': "
+                "0.83, 'inputs': '{}', 'parameters': "
+                '\'{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}\', '
+                "'remoteJobId': None, 'schedulerJobId': None, 'remoteQueue': "
+                "'hadoop', 'remoteSubmitted': None, 'remoteStarted': None, "
+                "'remoteEnded': None, 'remoteOutcome': None, 'submitRetries': "
+                "0, 'remoteStatusChecks': 0, 'failedStatusChecks': 0, "
+                "'lastStatusCheck': None, 'blockedCount': 0, 'visible': True, "
+                "'updateToken': '23af5c29-3e91-442b-a626-ad215b869106'}",
+ 'raw_message_parse_log': '',
+ 'state': '{}',
+ 'transcriptReference': '%2Fwork%2Fprojects%2FSD2E-Community%2Fprod%2Fdata%2F%2Freference%2Fnovel_chassis%2Fmaster_ref',
+ 'username': 'urrutia',
+ 'x-agave-job-id': '214930',
+ 'x-execution': 'Ej0AgqkOKNmG8',
+ 'x-nonce': 'SD2E_Rj738qzZRDpeW'}
+
+[92mLogs for execution o4qMOgMOm4JqA:[0m
+R4kKGm1gQ7xDV INFO Hello this is actor R4kKGm1gQ7xDV
+NONCE:
+{'_links': {'actor': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV', 'owner': 'https://api.sd2e.org/profiles/v2/urrutia', 'self': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV/nonces/SD2E_oZ0EepWJWO1l4'}, 'actorId': 'R4kKGm1gQ7xDV', 'apiServer': 'https://api.sd2e.org', 'createTime': '2019-04-03 17:41:18.342650', 'currentUses': 0, 'description': '', 'id': 'SD2E_oZ0EepWJWO1l4', 'lastUseTime': 'None', 'level': 'EXECUTE', 'maxUses': -1, 'owner': 'urrutia', 'remainingUses': -1, 'roles': ['Internal/everyone']}
+{'HOME': '/',
+ 'HOSTNAME': '21b6e6ba7f94',
+ 'MSG': "{'id': 214930, 'name': 'aloe-test', 'tenantId': 'sd2e', "
+        "'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue', 'status': "
+        "'STAGING_JOB', 'lastStatusMessage': 'Transitioning from status STAGED "
+        "to STAGING_JOB in phase SUBMITTING.', 'accepted': "
+        "'2019-04-03T17:40:45.168Z', 'created': '2019-04-03T17:40:45.205Z', "
+        "'ended': None, 'lastUpdated': '2019-04-03T17:40:48.259Z', 'uuid': "
+        "'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007', 'owner': 'urrutia', "
+        "'roles': "
+        "'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX', "
+        "'systemId': 'hpc-tacc-wrangler-urrutia', 'appId': "
+        "'urrutia-rnaseq-0.1.4', 'appUuid': "
+        "'44532760559873560-242ac11b-0001-005', 'workPath': "
+        "'urrutia/job-e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007-aloe-test', "
+        "'archive': True, 'archivePath': 'wrangler/alo_test', 'archiveSystem': "
+        "'data-tacc-work-urrutia', 'nodeCount': 1, 'processorsPerNode': 1, "
+        "'memoryPerNode': 1.0, 'maxHours': 0.83, 'inputs': '{}', 'parameters': "
+        '\'{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}\', '
+        "'remoteJobId': None, 'schedulerJobId': None, 'remoteQueue': 'hadoop', "
+        "'remoteSubmitted': None, 'remoteStarted': None, 'remoteEnded': None, "
+        "'remoteOutcome': None, 'submitRetries': 0, 'remoteStatusChecks': 0, "
+        "'failedStatusChecks': 0, 'lastStatusCheck': None, 'blockedCount': 0, "
+        "'visible': True, 'updateToken': "
+        "'23af5c29-3e91-442b-a626-ad215b869106'}",
+ 'PATH': '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin',
+ 'REACTORS_VERSION': '0.7.6',
+ 'SCRATCH': '/mnt/ephemeral-01',
+ 'XDG_CACHE_HOME': '/tmp',
+ '_PROJ_CORRAL': '/corral',
+ '_PROJ_STOCKYARD': '/work/projects/',
+ '_REACTOR_TEMP': '/mnt/ephemeral-01',
+ '_USER_WORK': '',
+ '_abaco_Content_Type': 'application/json',
+ '_abaco_access_token': 'd294694fbf99d8d9166f109dbcb6ff33',
+ '_abaco_actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ '_abaco_actor_id': 'R4kKGm1gQ7xDV',
+ '_abaco_actor_name': 'echo_reactor',
+ '_abaco_actor_state': '{}',
+ '_abaco_api_server': 'https://api.sd2e.org',
+ '_abaco_container_repo': 'jurrutia/echo_reactor:0.1',
+ '_abaco_execution_id': 'o4qMOgMOm4JqA',
+ '_abaco_username': 'urrutia',
+ '_abaco_worker_id': 'raNXjlZOXpVNz',
+ 'actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ 'actor_id': 'R4kKGm1gQ7xDV',
+ 'archivePath': 'ginkgo/novel-chassis/201808/Novelchassis-Nand-Gate/miniaturized_library_prep',
+ 'archiveSystem': 'data-sd2e-community',
+ 'content_type': None,
+ 'dataset': '201808novel_chassisGinkgo%3A${sample}',
+ 'execution_id': 'o4qMOgMOm4JqA',
+ 'lastAction': 'manifest',
+ 'manifestURL': 'agave://data-sd2e-community/testing/novel_chassis/new_format/ginkgo_norm_missing2.json',
+ 'message_dict': {'accepted': '2019-04-03T17:40:45.168Z',
+                  'appId': 'urrutia-rnaseq-0.1.4',
+                  'appUuid': '44532760559873560-242ac11b-0001-005',
+                  'archive': True,
+                  'archivePath': 'wrangler/alo_test',
+                  'archiveSystem': 'data-tacc-work-urrutia',
+                  'blockedCount': 0,
+                  'created': '2019-04-03T17:40:45.205Z',
+                  'ended': None,
+                  'failedStatusChecks': 0,
+                  'id': 214930,
+                  'inputs': '{}',
+                  'lastStatusCheck': None,
+                  'lastStatusMessage': 'Transitioning from status STAGED to '
+                                       'STAGING_JOB in phase SUBMITTING.',
+                  'lastUpdated': '2019-04-03T17:40:48.259Z',
+                  'maxHours': 0.83,
+                  'memoryPerNode': 1.0,
+                  'name': 'aloe-test',
+                  'nodeCount': 1,
+                  'owner': 'urrutia',
+                  'parameters': '{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}',
+                  'processorsPerNode': 1,
+                  'remoteEnded': None,
+                  'remoteJobId': None,
+                  'remoteOutcome': None,
+R4kKGm1gQ7xDV INFO successfully ran
+R4kKGm1gQ7xDV INFO successfully ran
+                  'remoteQueue': 'hadoop',
+                  'remoteStarted': None,
+                  'remoteStatusChecks': 0,
+                  'remoteSubmitted': None,
+                  'roles': 'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX',
+                  'schedulerJobId': None,
+                  'status': 'STAGING_JOB',
+                  'submitRetries': 0,
+                  'systemId': 'hpc-tacc-wrangler-urrutia',
+                  'tenantId': 'sd2e',
+                  'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue',
+                  'updateToken': '23af5c29-3e91-442b-a626-ad215b869106',
+                  'uuid': 'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007',
+                  'visible': True,
+                  'workPath': 'urrutia/job-e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007-aloe-test'},
+ 'queues': '%5B%27ginkgo_norm_missing2.json%3Astrain%3Astar%27%2C '
+           '%27ginkgo_norm_missing2.json%3Astrain%3Abowtie2%27%5D',
+ 'raw_message': "{'id': 214930, 'name': 'aloe-test', 'tenantId': 'sd2e', "
+                "'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue', "
+                "'status': 'STAGING_JOB', 'lastStatusMessage': 'Transitioning "
+                "from status STAGED to STAGING_JOB in phase SUBMITTING.', "
+                "'accepted': '2019-04-03T17:40:45.168Z', 'created': "
+                "'2019-04-03T17:40:45.205Z', 'ended': None, 'lastUpdated': "
+                "'2019-04-03T17:40:48.259Z', 'uuid': "
+                "'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007', 'owner': "
+                "'urrutia', 'roles': "
+                "'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX', "
+                "'systemId': 'hpc-tacc-wrangler-urrutia', 'appId': "
+                "'urrutia-rnaseq-0.1.4', 'appUuid': "
+                "'44532760559873560-242ac11b-0001-005', 'workPath': "
+                "'urrutia/job-e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007-aloe-test', "
+                "'archive': True, 'archivePath': 'wrangler/alo_test', "
+                "'archiveSystem': 'data-tacc-work-urrutia', 'nodeCount': 1, "
+                "'processorsPerNode': 1, 'memoryPerNode': 1.0, 'maxHours': "
+                "0.83, 'inputs': '{}', 'parameters': "
+                '\'{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}\', '
+                "'remoteJobId': None, 'schedulerJobId': None, 'remoteQueue': "
+                "'hadoop', 'remoteSubmitted': None, 'remoteStarted': None, "
+                "'remoteEnded': None, 'remoteOutcome': None, 'submitRetries': "
+                "0, 'remoteStatusChecks': 0, 'failedStatusChecks': 0, "
+                "'lastStatusCheck': None, 'blockedCount': 0, 'visible': True, "
+                "'updateToken': '23af5c29-3e91-442b-a626-ad215b869106'}",
+ 'raw_message_parse_log': '',
+ 'state': '{}',
+ 'transcriptReference': '%2Fwork%2Fprojects%2FSD2E-Community%2Fprod%2Fdata%2F%2Freference%2Fnovel_chassis%2Fmaster_ref',
+ 'username': 'urrutia',
+ 'x-agave-job-id': '214930',
+ 'x-execution': 'Ej0AgqkOKNmG8',
+ 'x-nonce': 'SD2E_Rj738qzZRDpeW'}
+
+[92mLogs for execution 378WrGYOYojZZ:[0m
+R4kKGm1gQ7xDV INFO Hello this is actor R4kKGm1gQ7xDV
+NONCE:
+{'_links': {'actor': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV', 'owner': 'https://api.sd2e.org/profiles/v2/urrutia', 'self': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV/nonces/SD2E_zvzXpllqeM1RJ'}, 'actorId': 'R4kKGm1gQ7xDV', 'apiServer': 'https://api.sd2e.org', 'createTime': '2019-04-03 17:41:23.069986', 'currentUses': 0, 'description': '', 'id': 'SD2E_zvzXpllqeM1RJ', 'lastUseTime': 'None', 'level': 'EXECUTE', 'maxUses': -1, 'owner': 'urrutia', 'remainingUses': -1, 'roles': ['Internal/everyone']}
+{'HOME': '/',
+ 'HOSTNAME': '01b5a9706ddc',
+ 'MSG': "{'id': 214930, 'name': 'aloe-test', 'tenantId': 'sd2e', "
+        "'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue', 'status': "
+        "'STAGING_JOB', 'lastStatusMessage': 'Transitioning from status STAGED "
+        "to STAGING_JOB in phase SUBMITTING.', 'accepted': "
+        "'2019-04-03T17:40:45.168Z', 'created': '2019-04-03T17:40:45.205Z', "
+        "'ended': None, 'lastUpdated': '2019-04-03T17:40:48.259Z', 'uuid': "
+        "'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007', 'owner': 'urrutia', "
+        "'roles': "
+        "'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX', "
+        "'systemId': 'hpc-tacc-wrangler-urrutia', 'appId': "
+        "'urrutia-rnaseq-0.1.4', 'appUuid': "
+        "'44532760559873560-242ac11b-0001-005', 'workPath': "
+        "'urrutia/job-e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007-aloe-test', "
+        "'archive': True, 'archivePath': 'wrangler/alo_test', 'archiveSystem': "
+        "'data-tacc-work-urrutia', 'nodeCount': 1, 'processorsPerNode': 1, "
+        "'memoryPerNode': 1.0, 'maxHours': 0.83, 'inputs': '{}', 'parameters': "
+        '\'{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}\', '
+        "'remoteJobId': None, 'schedulerJobId': None, 'remoteQueue': 'hadoop', "
+        "'remoteSubmitted': None, 'remoteStarted': None, 'remoteEnded': None, "
+        "'remoteOutcome': None, 'submitRetries': 0, 'remoteStatusChecks': 0, "
+        "'failedStatusChecks': 0, 'lastStatusCheck': None, 'blockedCount': 0, "
+        "'visible': True, 'updateToken': "
+        "'23af5c29-3e91-442b-a626-ad215b869106'}",
+ 'PATH': '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin',
+ 'REACTORS_VERSION': '0.7.6',
+ 'SCRATCH': '/mnt/ephemeral-01',
+ 'XDG_CACHE_HOME': '/tmp',
+ '_PROJ_CORRAL': '/corral',
+ '_PROJ_STOCKYARD': '/work/projects/',
+ '_REACTOR_TEMP': '/mnt/ephemeral-01',
+ '_USER_WORK': '',
+ '_abaco_Content_Type': 'application/json',
+ '_abaco_access_token': '43c2695fefb9513016f82bc92cb5188',
+ '_abaco_actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ '_abaco_actor_id': 'R4kKGm1gQ7xDV',
+ '_abaco_actor_name': 'echo_reactor',
+ '_abaco_actor_state': '{}',
+ '_abaco_api_server': 'https://api.sd2e.org',
+ '_abaco_container_repo': 'jurrutia/echo_reactor:0.1',
+ '_abaco_execution_id': '378WrGYOYojZZ',
+ '_abaco_username': 'urrutia',
+ '_abaco_worker_id': 'raNXjlZOXpVNz',
+ 'actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ 'actor_id': 'R4kKGm1gQ7xDV',
+ 'archivePath': 'ginkgo/novel-chassis/201808/Novelchassis-Nand-Gate/miniaturized_library_prep',
+ 'archiveSystem': 'data-sd2e-community',
+ 'content_type': None,
+ 'dataset': '201808novel_chassisGinkgo%3A${sample}',
+ 'execution_id': '378WrGYOYojZZ',
+ 'lastAction': 'manifest',
+ 'manifestURL': 'agave://data-sd2e-community/testing/novel_chassis/new_format/ginkgo_norm_missing2.json',
+ 'message_dict': {'accepted': '2019-04-03T17:40:45.168Z',
+                  'appId': 'urrutia-rnaseq-0.1.4',
+                  'appUuid': '44532760559873560-242ac11b-0001-005',
+                  'archive': True,
+                  'archivePath': 'wrangler/alo_test',
+                  'archiveSystem': 'data-tacc-work-urrutia',
+                  'blockedCount': 0,
+                  'created': '2019-04-03T17:40:45.205Z',
+                  'ended': None,
+                  'failedStatusChecks': 0,
+                  'id': 214930,
+                  'inputs': '{}',
+                  'lastStatusCheck': None,
+                  'lastStatusMessage': 'Transitioning from status STAGED to '
+                                       'STAGING_JOB in phase SUBMITTING.',
+                  'lastUpdated': '2019-04-03T17:40:48.259Z',
+                  'maxHours': 0.83,
+                  'memoryPerNode': 1.0,
+                  'name': 'aloe-test',
+                  'nodeCount': 1,
+                  'owner': 'urrutia',
+                  'parameters': '{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}',
+                  'processorsPerNode': 1,
+                  'remoteEnded': None,
+                  'remoteJobId': None,
+                  'remoteOutcome': None,
+                  'remoteQueue': 'hadoop',
+                  'remoteStarted': None,
+                  'remoteStatusChecks': 0,
+                  'remoteSubmitted': None,
+                  'roles': 'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX',
+                  'schedulerJobId': None,
+                  'status': 'STAGING_JOB',
+                  'submitRetries': 0,
+                  'systemId': 'hpc-tacc-wrangler-urrutia',
+                  'tenantId': 'sd2e',
+                  'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue',
+                  'updateToken': '23af5c29-3e91-442b-a626-ad215b869106',
+                  'uuid': 'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007',
+                  'visible': True,
+                  'workPath': 'urrutia/job-e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007-aloe-test'},
+ 'queues': '%5B%27ginkgo_norm_missing2.json%3Astrain%3Astar%27%2C '
+           '%27ginkgo_norm_missing2.json%3Astrain%3Abowtie2%27%5D',
+ 'raw_message': "{'id': 214930, 'name': 'aloe-test', 'tenantId': 'sd2e', "
+                "'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue', "
+                "'status': 'STAGING_JOB', 'lastStatusMessage': 'Transitioning "
+                "from status STAGED to STAGING_JOB in phase SUBMITTING.', "
+                "'accepted': '2019-04-03T17:40:45.168Z', 'created': "
+R4kKGm1gQ7xDV INFO successfully ran
+R4kKGm1gQ7xDV INFO successfully ran
+                "'2019-04-03T17:40:45.205Z', 'ended': None, 'lastUpdated': "
+                "'2019-04-03T17:40:48.259Z', 'uuid': "
+                "'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007', 'owner': "
+                "'urrutia', 'roles': "
+                "'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX', "
+                "'systemId': 'hpc-tacc-wrangler-urrutia', 'appId': "
+                "'urrutia-rnaseq-0.1.4', 'appUuid': "
+                "'44532760559873560-242ac11b-0001-005', 'workPath': "
+                "'urrutia/job-e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007-aloe-test', "
+                "'archive': True, 'archivePath': 'wrangler/alo_test', "
+                "'archiveSystem': 'data-tacc-work-urrutia', 'nodeCount': 1, "
+                "'processorsPerNode': 1, 'memoryPerNode': 1.0, 'maxHours': "
+                "0.83, 'inputs': '{}', 'parameters': "
+                '\'{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}\', '
+                "'remoteJobId': None, 'schedulerJobId': None, 'remoteQueue': "
+                "'hadoop', 'remoteSubmitted': None, 'remoteStarted': None, "
+                "'remoteEnded': None, 'remoteOutcome': None, 'submitRetries': "
+                "0, 'remoteStatusChecks': 0, 'failedStatusChecks': 0, "
+                "'lastStatusCheck': None, 'blockedCount': 0, 'visible': True, "
+                "'updateToken': '23af5c29-3e91-442b-a626-ad215b869106'}",
+ 'raw_message_parse_log': '',
+ 'state': '{}',
+ 'transcriptReference': '%2Fwork%2Fprojects%2FSD2E-Community%2Fprod%2Fdata%2F%2Freference%2Fnovel_chassis%2Fmaster_ref',
+ 'username': 'urrutia',
+ 'x-agave-job-id': '214930',
+ 'x-execution': 'Ej0AgqkOKNmG8',
+ 'x-nonce': 'SD2E_Rj738qzZRDpeW'}
+
+[92mLogs for execution Re8MXOKL3ElKg:[0m
+R4kKGm1gQ7xDV INFO Hello this is actor R4kKGm1gQ7xDV
+NONCE:
+{'_links': {'actor': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV', 'owner': 'https://api.sd2e.org/profiles/v2/urrutia', 'self': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV/nonces/SD2E_R7q6Dzyy3bPMD'}, 'actorId': 'R4kKGm1gQ7xDV', 'apiServer': 'https://api.sd2e.org', 'createTime': '2019-04-03 17:41:28.381339', 'currentUses': 0, 'description': '', 'id': 'SD2E_R7q6Dzyy3bPMD', 'lastUseTime': 'None', 'level': 'EXECUTE', 'maxUses': -1, 'owner': 'urrutia', 'remainingUses': -1, 'roles': ['Internal/everyone']}
+{'HOME': '/',
+ 'HOSTNAME': '9e6e3b838c1b',
+ 'MSG': "{'id': 214930, 'name': 'aloe-test', 'tenantId': 'sd2e', "
+        "'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue', 'status': "
+        "'QUEUED', 'lastStatusMessage': 'JOBS_QUEUED_ON_REMOTE_SYSTEM Job "
+        'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007 for user urrutia in tenant '
+        "sd2e is queued on system hpc-tacc-wrangler-urrutia.', 'accepted': "
+        "'2019-04-03T17:40:45.168Z', 'created': '2019-04-03T17:40:45.205Z', "
+        "'ended': None, 'lastUpdated': '2019-04-03T17:40:56.125Z', 'uuid': "
+        "'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007', 'owner': 'urrutia', "
+        "'roles': "
+        "'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX', "
+        "'systemId': 'hpc-tacc-wrangler-urrutia', 'appId': "
+        "'urrutia-rnaseq-0.1.4', 'appUuid': "
+        "'44532760559873560-242ac11b-0001-005', 'workPath': "
+        "'urrutia/job-e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007-aloe-test', "
+        "'archive': True, 'archivePath': 'wrangler/alo_test', 'archiveSystem': "
+        "'data-tacc-work-urrutia', 'nodeCount': 1, 'processorsPerNode': 1, "
+        "'memoryPerNode': 1.0, 'maxHours': 0.83, 'inputs': '{}', 'parameters': "
+        '\'{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}\', '
+        "'remoteJobId': '168531', 'schedulerJobId': None, 'remoteQueue': "
+        "'hadoop', 'remoteSubmitted': '2019-04-03T17:40:56.125Z', "
+        "'remoteStarted': None, 'remoteEnded': None, 'remoteOutcome': None, "
+        "'submitRetries': 0, 'remoteStatusChecks': 0, 'failedStatusChecks': 0, "
+        "'lastStatusCheck': None, 'blockedCount': 0, 'visible': True, "
+        "'updateToken': '23af5c29-3e91-442b-a626-ad215b869106'}",
+ 'PATH': '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin',
+ 'REACTORS_VERSION': '0.7.6',
+ 'SCRATCH': '/mnt/ephemeral-01',
+ 'XDG_CACHE_HOME': '/tmp',
+ '_PROJ_CORRAL': '/corral',
+ '_PROJ_STOCKYARD': '/work/projects/',
+ '_REACTOR_TEMP': '/mnt/ephemeral-01',
+ '_USER_WORK': '',
+ '_abaco_Content_Type': 'application/json',
+ '_abaco_access_token': 'dd5f7c7f96c9d6ea5db8fa7ebdd1f2',
+ '_abaco_actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ '_abaco_actor_id': 'R4kKGm1gQ7xDV',
+ '_abaco_actor_name': 'echo_reactor',
+ '_abaco_actor_state': '{}',
+ '_abaco_api_server': 'https://api.sd2e.org',
+ '_abaco_container_repo': 'jurrutia/echo_reactor:0.1',
+ '_abaco_execution_id': 'Re8MXOKL3ElKg',
+ '_abaco_username': 'urrutia',
+ '_abaco_worker_id': 'raNXjlZOXpVNz',
+ 'actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ 'actor_id': 'R4kKGm1gQ7xDV',
+ 'archivePath': 'ginkgo/novel-chassis/201808/Novelchassis-Nand-Gate/miniaturized_library_prep',
+ 'archiveSystem': 'data-sd2e-community',
+ 'content_type': None,
+ 'dataset': '201808novel_chassisGinkgo%3A${sample}',
+ 'execution_id': 'Re8MXOKL3ElKg',
+ 'lastAction': 'manifest',
+ 'manifestURL': 'agave://data-sd2e-community/testing/novel_chassis/new_format/ginkgo_norm_missing2.json',
+ 'message_dict': {'accepted': '2019-04-03T17:40:45.168Z',
+                  'appId': 'urrutia-rnaseq-0.1.4',
+                  'appUuid': '44532760559873560-242ac11b-0001-005',
+                  'archive': True,
+                  'archivePath': 'wrangler/alo_test',
+                  'archiveSystem': 'data-tacc-work-urrutia',
+                  'blockedCount': 0,
+                  'created': '2019-04-03T17:40:45.205Z',
+                  'ended': None,
+                  'failedStatusChecks': 0,
+                  'id': 214930,
+                  'inputs': '{}',
+                  'lastStatusCheck': None,
+                  'lastStatusMessage': 'JOBS_QUEUED_ON_REMOTE_SYSTEM Job '
+                                       'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007 '
+                                       'for user urrutia in tenant sd2e is '
+                                       'queued on system '
+                                       'hpc-tacc-wrangler-urrutia.',
+                  'lastUpdated': '2019-04-03T17:40:56.125Z',
+                  'maxHours': 0.83,
+                  'memoryPerNode': 1.0,
+                  'name': 'aloe-test',
+                  'nodeCount': 1,
+                  'owner': 'urrutia',
+                  'parameters': '{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}',
+                  'processorsPerNode': 1,
+                  'remoteEnded': None,
+                  'remoteJobId': '168531',
+                  'remoteOutcome': None,
+                  'remoteQueue': 'hadoop',
+                  'remoteStarted': None,
+                  'remoteStatusChecks': 0,
+                  'remoteSubmitted': '2019-04-03T17:40:56.125Z',
+                  'roles': 'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX',
+                  'schedulerJobId': None,
+                  'status': 'QUEUED',
+                  'submitRetries': 0,
+                  'systemId': 'hpc-tacc-wrangler-urrutia',
+                  'tenantId': 'sd2e',
+                  'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue',
+                  'updateToken': '23af5c29-3e91-442b-a626-ad215b869106',
+                  'uuid': 'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007',
+                  'visible': True,
+                  'workPath': 'urrutia/job-e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007-aloe-test'},
+ 'queues': '%5B%27ginkgo_norm_missing2.json%3Astrain%3Astar%27%2C '
+           '%27ginkgo_norm_missing2.json%3Astrain%3Abowtie2%27%5D',
+ 'raw_message': "{'id': 214930, 'name': 'aloe-test', 'tenantId': 'sd2e', "
+R4kKGm1gQ7xDV INFO successfully ran
+R4kKGm1gQ7xDV INFO successfully ran
+                "'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue', "
+                "'status': 'QUEUED', 'lastStatusMessage': "
+                "'JOBS_QUEUED_ON_REMOTE_SYSTEM Job "
+                'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007 for user urrutia in '
+                "tenant sd2e is queued on system hpc-tacc-wrangler-urrutia.', "
+                "'accepted': '2019-04-03T17:40:45.168Z', 'created': "
+                "'2019-04-03T17:40:45.205Z', 'ended': None, 'lastUpdated': "
+                "'2019-04-03T17:40:56.125Z', 'uuid': "
+                "'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007', 'owner': "
+                "'urrutia', 'roles': "
+                "'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX', "
+                "'systemId': 'hpc-tacc-wrangler-urrutia', 'appId': "
+                "'urrutia-rnaseq-0.1.4', 'appUuid': "
+                "'44532760559873560-242ac11b-0001-005', 'workPath': "
+                "'urrutia/job-e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007-aloe-test', "
+                "'archive': True, 'archivePath': 'wrangler/alo_test', "
+                "'archiveSystem': 'data-tacc-work-urrutia', 'nodeCount': 1, "
+                "'processorsPerNode': 1, 'memoryPerNode': 1.0, 'maxHours': "
+                "0.83, 'inputs': '{}', 'parameters': "
+                '\'{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}\', '
+                "'remoteJobId': '168531', 'schedulerJobId': None, "
+                "'remoteQueue': 'hadoop', 'remoteSubmitted': "
+                "'2019-04-03T17:40:56.125Z', 'remoteStarted': None, "
+                "'remoteEnded': None, 'remoteOutcome': None, 'submitRetries': "
+                "0, 'remoteStatusChecks': 0, 'failedStatusChecks': 0, "
+                "'lastStatusCheck': None, 'blockedCount': 0, 'visible': True, "
+                "'updateToken': '23af5c29-3e91-442b-a626-ad215b869106'}",
+ 'raw_message_parse_log': '',
+ 'state': '{}',
+ 'transcriptReference': '%2Fwork%2Fprojects%2FSD2E-Community%2Fprod%2Fdata%2F%2Freference%2Fnovel_chassis%2Fmaster_ref',
+ 'username': 'urrutia',
+ 'x-agave-job-id': '214930',
+ 'x-execution': 'Ej0AgqkOKNmG8',
+ 'x-nonce': 'SD2E_Rj738qzZRDpeW'}
+
+[92mLogs for execution ReqloBaX45NjD:[0m
+R4kKGm1gQ7xDV INFO Hello this is actor R4kKGm1gQ7xDV
+NONCE:
+{'_links': {'actor': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV', 'owner': 'https://api.sd2e.org/profiles/v2/urrutia', 'self': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV/nonces/SD2E_zoXg5QM5yyVYX'}, 'actorId': 'R4kKGm1gQ7xDV', 'apiServer': 'https://api.sd2e.org', 'createTime': '2019-04-03 17:41:33.564455', 'currentUses': 0, 'description': '', 'id': 'SD2E_zoXg5QM5yyVYX', 'lastUseTime': 'None', 'level': 'EXECUTE', 'maxUses': -1, 'owner': 'urrutia', 'remainingUses': -1, 'roles': ['Internal/everyone']}
+{'HOME': '/',
+ 'HOSTNAME': '8268e78ada20',
+ 'MSG': "{'id': 214930, 'name': 'aloe-test', 'tenantId': 'sd2e', "
+        "'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue', 'status': "
+        "'QUEUED', 'lastStatusMessage': 'JOBS_QUEUED_ON_REMOTE_SYSTEM Job "
+        'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007 for user urrutia in tenant '
+        "sd2e is queued on system hpc-tacc-wrangler-urrutia.', 'accepted': "
+        "'2019-04-03T17:40:45.168Z', 'created': '2019-04-03T17:40:45.205Z', "
+        "'ended': None, 'lastUpdated': '2019-04-03T17:41:00.131Z', 'uuid': "
+        "'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007', 'owner': 'urrutia', "
+        "'roles': "
+        "'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX', "
+        "'systemId': 'hpc-tacc-wrangler-urrutia', 'appId': "
+        "'urrutia-rnaseq-0.1.4', 'appUuid': "
+        "'44532760559873560-242ac11b-0001-005', 'workPath': "
+        "'urrutia/job-e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007-aloe-test', "
+        "'archive': True, 'archivePath': 'wrangler/alo_test', 'archiveSystem': "
+        "'data-tacc-work-urrutia', 'nodeCount': 1, 'processorsPerNode': 1, "
+        "'memoryPerNode': 1.0, 'maxHours': 0.83, 'inputs': '{}', 'parameters': "
+        '\'{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}\', '
+        "'remoteJobId': '168531', 'schedulerJobId': None, 'remoteQueue': "
+        "'hadoop', 'remoteSubmitted': '2019-04-03T17:40:56.125Z', "
+        "'remoteStarted': None, 'remoteEnded': None, 'remoteOutcome': None, "
+        "'submitRetries': 0, 'remoteStatusChecks': 1, 'failedStatusChecks': 0, "
+        "'lastStatusCheck': '2019-04-03T17:41:00.131Z', 'blockedCount': 0, "
+        "'visible': True, 'updateToken': "
+        "'23af5c29-3e91-442b-a626-ad215b869106'}",
+ 'PATH': '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin',
+ 'REACTORS_VERSION': '0.7.6',
+ 'SCRATCH': '/mnt/ephemeral-01',
+ 'XDG_CACHE_HOME': '/tmp',
+ '_PROJ_CORRAL': '/corral',
+ '_PROJ_STOCKYARD': '/work/projects/',
+ '_REACTOR_TEMP': '/mnt/ephemeral-01',
+ '_USER_WORK': '',
+ '_abaco_Content_Type': 'application/json',
+ '_abaco_access_token': '768842a67e93077e7126371ad31485d',
+ '_abaco_actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ '_abaco_actor_id': 'R4kKGm1gQ7xDV',
+ '_abaco_actor_name': 'echo_reactor',
+ '_abaco_actor_state': '{}',
+ '_abaco_api_server': 'https://api.sd2e.org',
+ '_abaco_container_repo': 'jurrutia/echo_reactor:0.1',
+ '_abaco_execution_id': 'ReqloBaX45NjD',
+ '_abaco_username': 'urrutia',
+ '_abaco_worker_id': 'raNXjlZOXpVNz',
+ 'actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ 'actor_id': 'R4kKGm1gQ7xDV',
+ 'archivePath': 'ginkgo/novel-chassis/201808/Novelchassis-Nand-Gate/miniaturized_library_prep',
+ 'archiveSystem': 'data-sd2e-community',
+ 'content_type': None,
+ 'dataset': '201808novel_chassisGinkgo%3A${sample}',
+ 'execution_id': 'ReqloBaX45NjD',
+ 'lastAction': 'manifest',
+ 'manifestURL': 'agave://data-sd2e-community/testing/novel_chassis/new_format/ginkgo_norm_missing2.json',
+ 'message_dict': {'accepted': '2019-04-03T17:40:45.168Z',
+                  'appId': 'urrutia-rnaseq-0.1.4',
+                  'appUuid': '44532760559873560-242ac11b-0001-005',
+                  'archive': True,
+                  'archivePath': 'wrangler/alo_test',
+                  'archiveSystem': 'data-tacc-work-urrutia',
+                  'blockedCount': 0,
+                  'created': '2019-04-03T17:40:45.205Z',
+                  'ended': None,
+                  'failedStatusChecks': 0,
+                  'id': 214930,
+                  'inputs': '{}',
+                  'lastStatusCheck': '2019-04-03T17:41:00.131Z',
+                  'lastStatusMessage': 'JOBS_QUEUED_ON_REMOTE_SYSTEM Job '
+                                       'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007 '
+                                       'for user urrutia in tenant sd2e is '
+                                       'queued on system '
+                                       'hpc-tacc-wrangler-urrutia.',
+                  'lastUpdated': '2019-04-03T17:41:00.131Z',
+                  'maxHours': 0.83,
+                  'memoryPerNode': 1.0,
+                  'name': 'aloe-test',
+                  'nodeCount': 1,
+                  'owner': 'urrutia',
+                  'parameters': '{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}',
+                  'processorsPerNode': 1,
+                  'remoteEnded': None,
+                  'remoteJobId': '168531',
+                  'remoteOutcome': None,
+                  'remoteQueue': 'hadoop',
+                  'remoteStarted': None,
+                  'remoteStatusChecks': 1,
+                  'remoteSubmitted': '2019-04-03T17:40:56.125Z',
+                  'roles': 'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX',
+                  'schedulerJobId': None,
+                  'status': 'QUEUED',
+                  'submitRetries': 0,
+                  'systemId': 'hpc-tacc-wrangler-urrutia',
+                  'tenantId': 'sd2e',
+                  'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue',
+                  'updateToken': '23af5c29-3e91-442b-a626-ad215b869106',
+                  'uuid': 'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007',
+                  'visible': True,
+R4kKGm1gQ7xDV INFO successfully ran
+R4kKGm1gQ7xDV INFO successfully ran
+                  'workPath': 'urrutia/job-e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007-aloe-test'},
+ 'queues': '%5B%27ginkgo_norm_missing2.json%3Astrain%3Astar%27%2C '
+           '%27ginkgo_norm_missing2.json%3Astrain%3Abowtie2%27%5D',
+ 'raw_message': "{'id': 214930, 'name': 'aloe-test', 'tenantId': 'sd2e', "
+                "'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue', "
+                "'status': 'QUEUED', 'lastStatusMessage': "
+                "'JOBS_QUEUED_ON_REMOTE_SYSTEM Job "
+                'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007 for user urrutia in '
+                "tenant sd2e is queued on system hpc-tacc-wrangler-urrutia.', "
+                "'accepted': '2019-04-03T17:40:45.168Z', 'created': "
+                "'2019-04-03T17:40:45.205Z', 'ended': None, 'lastUpdated': "
+                "'2019-04-03T17:41:00.131Z', 'uuid': "
+                "'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007', 'owner': "
+                "'urrutia', 'roles': "
+                "'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX', "
+                "'systemId': 'hpc-tacc-wrangler-urrutia', 'appId': "
+                "'urrutia-rnaseq-0.1.4', 'appUuid': "
+                "'44532760559873560-242ac11b-0001-005', 'workPath': "
+                "'urrutia/job-e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007-aloe-test', "
+                "'archive': True, 'archivePath': 'wrangler/alo_test', "
+                "'archiveSystem': 'data-tacc-work-urrutia', 'nodeCount': 1, "
+                "'processorsPerNode': 1, 'memoryPerNode': 1.0, 'maxHours': "
+                "0.83, 'inputs': '{}', 'parameters': "
+                '\'{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}\', '
+                "'remoteJobId': '168531', 'schedulerJobId': None, "
+                "'remoteQueue': 'hadoop', 'remoteSubmitted': "
+                "'2019-04-03T17:40:56.125Z', 'remoteStarted': None, "
+                "'remoteEnded': None, 'remoteOutcome': None, 'submitRetries': "
+                "0, 'remoteStatusChecks': 1, 'failedStatusChecks': 0, "
+                "'lastStatusCheck': '2019-04-03T17:41:00.131Z', "
+                "'blockedCount': 0, 'visible': True, 'updateToken': "
+                "'23af5c29-3e91-442b-a626-ad215b869106'}",
+ 'raw_message_parse_log': '',
+ 'state': '{}',
+ 'transcriptReference': '%2Fwork%2Fprojects%2FSD2E-Community%2Fprod%2Fdata%2F%2Freference%2Fnovel_chassis%2Fmaster_ref',
+ 'username': 'urrutia',
+ 'x-agave-job-id': '214930',
+ 'x-execution': 'Ej0AgqkOKNmG8',
+ 'x-nonce': 'SD2E_Rj738qzZRDpeW'}
+
+[92mLogs for execution zovzgJkoMP6Vk:[0m
+R4kKGm1gQ7xDV INFO Hello this is actor R4kKGm1gQ7xDV
+NONCE:
+{'_links': {'actor': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV', 'owner': 'https://api.sd2e.org/profiles/v2/urrutia', 'self': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV/nonces/SD2E_RYBEmm7WQErvL'}, 'actorId': 'R4kKGm1gQ7xDV', 'apiServer': 'https://api.sd2e.org', 'createTime': '2019-04-03 17:41:41.731489', 'currentUses': 0, 'description': '', 'id': 'SD2E_RYBEmm7WQErvL', 'lastUseTime': 'None', 'level': 'EXECUTE', 'maxUses': -1, 'owner': 'urrutia', 'remainingUses': -1, 'roles': ['Internal/everyone']}
+{'HOME': '/',
+ 'HOSTNAME': 'c6210644d3aa',
+ 'MSG': "{'id': 214930, 'name': 'aloe-test', 'tenantId': 'sd2e', "
+        "'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue', 'status': "
+        "'RUNNING', 'lastStatusMessage': 'Transitioning from status QUEUED to "
+        "RUNNING in phase MONITORING.', 'accepted': "
+        "'2019-04-03T17:40:45.168Z', 'created': '2019-04-03T17:40:45.205Z', "
+        "'ended': None, 'lastUpdated': '2019-04-03T17:41:36.645Z', 'uuid': "
+        "'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007', 'owner': 'urrutia', "
+        "'roles': "
+        "'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX', "
+        "'systemId': 'hpc-tacc-wrangler-urrutia', 'appId': "
+        "'urrutia-rnaseq-0.1.4', 'appUuid': "
+        "'44532760559873560-242ac11b-0001-005', 'workPath': "
+        "'urrutia/job-e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007-aloe-test', "
+        "'archive': True, 'archivePath': 'wrangler/alo_test', 'archiveSystem': "
+        "'data-tacc-work-urrutia', 'nodeCount': 1, 'processorsPerNode': 1, "
+        "'memoryPerNode': 1.0, 'maxHours': 0.83, 'inputs': '{}', 'parameters': "
+        '\'{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}\', '
+        "'remoteJobId': '168531', 'schedulerJobId': None, 'remoteQueue': "
+        "'hadoop', 'remoteSubmitted': '2019-04-03T17:40:56.125Z', "
+        "'remoteStarted': '2019-04-03T17:41:00.136Z', 'remoteEnded': "
+        "'2019-04-03T17:41:36.645Z', 'remoteOutcome': 'FINISHED', "
+        "'submitRetries': 0, 'remoteStatusChecks': 8, 'failedStatusChecks': 0, "
+        "'lastStatusCheck': '2019-04-03T17:41:36.640Z', 'blockedCount': 0, "
+        "'visible': True, 'updateToken': "
+        "'23af5c29-3e91-442b-a626-ad215b869106'}",
+ 'PATH': '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin',
+ 'REACTORS_VERSION': '0.7.6',
+ 'SCRATCH': '/mnt/ephemeral-01',
+ 'XDG_CACHE_HOME': '/tmp',
+ '_PROJ_CORRAL': '/corral',
+ '_PROJ_STOCKYARD': '/work/projects/',
+ '_REACTOR_TEMP': '/mnt/ephemeral-01',
+R4kKGm1gQ7xDV INFO successfully ran
+R4kKGm1gQ7xDV INFO successfully ran
+ '_USER_WORK': '',
+ '_abaco_Content_Type': 'application/json',
+ '_abaco_access_token': '2b4b60c2c8e36e73f2298fc9f42b65e4',
+ '_abaco_actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ '_abaco_actor_id': 'R4kKGm1gQ7xDV',
+ '_abaco_actor_name': 'echo_reactor',
+ '_abaco_actor_state': '{}',
+ '_abaco_api_server': 'https://api.sd2e.org',
+ '_abaco_container_repo': 'jurrutia/echo_reactor:0.1',
+ '_abaco_execution_id': 'zovzgJkoMP6Vk',
+ '_abaco_username': 'urrutia',
+ '_abaco_worker_id': 'raNXjlZOXpVNz',
+ 'actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ 'actor_id': 'R4kKGm1gQ7xDV',
+ 'archivePath': 'ginkgo/novel-chassis/201808/Novelchassis-Nand-Gate/miniaturized_library_prep',
+ 'archiveSystem': 'data-sd2e-community',
+ 'content_type': None,
+ 'dataset': '201808novel_chassisGinkgo%3A${sample}',
+ 'execution_id': 'zovzgJkoMP6Vk',
+ 'lastAction': 'manifest',
+ 'manifestURL': 'agave://data-sd2e-community/testing/novel_chassis/new_format/ginkgo_norm_missing2.json',
+ 'message_dict': {'accepted': '2019-04-03T17:40:45.168Z',
+                  'appId': 'urrutia-rnaseq-0.1.4',
+                  'appUuid': '44532760559873560-242ac11b-0001-005',
+                  'archive': True,
+                  'archivePath': 'wrangler/alo_test',
+                  'archiveSystem': 'data-tacc-work-urrutia',
+                  'blockedCount': 0,
+                  'created': '2019-04-03T17:40:45.205Z',
+                  'ended': None,
+                  'failedStatusChecks': 0,
+                  'id': 214930,
+                  'inputs': '{}',
+                  'lastStatusCheck': '2019-04-03T17:41:36.640Z',
+                  'lastStatusMessage': 'Transitioning from status QUEUED to '
+                                       'RUNNING in phase MONITORING.',
+                  'lastUpdated': '2019-04-03T17:41:36.645Z',
+                  'maxHours': 0.83,
+                  'memoryPerNode': 1.0,
+                  'name': 'aloe-test',
+                  'nodeCount': 1,
+                  'owner': 'urrutia',
+                  'parameters': '{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}',
+                  'processorsPerNode': 1,
+                  'remoteEnded': '2019-04-03T17:41:36.645Z',
+                  'remoteJobId': '168531',
+                  'remoteOutcome': 'FINISHED',
+                  'remoteQueue': 'hadoop',
+                  'remoteStarted': '2019-04-03T17:41:00.136Z',
+                  'remoteStatusChecks': 8,
+                  'remoteSubmitted': '2019-04-03T17:40:56.125Z',
+                  'roles': 'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX',
+                  'schedulerJobId': None,
+                  'status': 'RUNNING',
+                  'submitRetries': 0,
+                  'systemId': 'hpc-tacc-wrangler-urrutia',
+                  'tenantId': 'sd2e',
+                  'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue',
+                  'updateToken': '23af5c29-3e91-442b-a626-ad215b869106',
+                  'uuid': 'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007',
+                  'visible': True,
+                  'workPath': 'urrutia/job-e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007-aloe-test'},
+ 'queues': '%5B%27ginkgo_norm_missing2.json%3Astrain%3Astar%27%2C '
+           '%27ginkgo_norm_missing2.json%3Astrain%3Abowtie2%27%5D',
+ 'raw_message': "{'id': 214930, 'name': 'aloe-test', 'tenantId': 'sd2e', "
+                "'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue', "
+                "'status': 'RUNNING', 'lastStatusMessage': 'Transitioning from "
+                "status QUEUED to RUNNING in phase MONITORING.', 'accepted': "
+                "'2019-04-03T17:40:45.168Z', 'created': "
+                "'2019-04-03T17:40:45.205Z', 'ended': None, 'lastUpdated': "
+                "'2019-04-03T17:41:36.645Z', 'uuid': "
+                "'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007', 'owner': "
+                "'urrutia', 'roles': "
+                "'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX', "
+                "'systemId': 'hpc-tacc-wrangler-urrutia', 'appId': "
+                "'urrutia-rnaseq-0.1.4', 'appUuid': "
+                "'44532760559873560-242ac11b-0001-005', 'workPath': "
+                "'urrutia/job-e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007-aloe-test', "
+                "'archive': True, 'archivePath': 'wrangler/alo_test', "
+                "'archiveSystem': 'data-tacc-work-urrutia', 'nodeCount': 1, "
+                "'processorsPerNode': 1, 'memoryPerNode': 1.0, 'maxHours': "
+                "0.83, 'inputs': '{}', 'parameters': "
+                '\'{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}\', '
+                "'remoteJobId': '168531', 'schedulerJobId': None, "
+                "'remoteQueue': 'hadoop', 'remoteSubmitted': "
+                "'2019-04-03T17:40:56.125Z', 'remoteStarted': "
+                "'2019-04-03T17:41:00.136Z', 'remoteEnded': "
+                "'2019-04-03T17:41:36.645Z', 'remoteOutcome': 'FINISHED', "
+                "'submitRetries': 0, 'remoteStatusChecks': 8, "
+                "'failedStatusChecks': 0, 'lastStatusCheck': "
+                "'2019-04-03T17:41:36.640Z', 'blockedCount': 0, 'visible': "
+                "True, 'updateToken': '23af5c29-3e91-442b-a626-ad215b869106'}",
+ 'raw_message_parse_log': '',
+ 'state': '{}',
+ 'transcriptReference': '%2Fwork%2Fprojects%2FSD2E-Community%2Fprod%2Fdata%2F%2Freference%2Fnovel_chassis%2Fmaster_ref',
+ 'username': 'urrutia',
+ 'x-agave-job-id': '214930',
+ 'x-execution': 'Ej0AgqkOKNmG8',
+ 'x-nonce': 'SD2E_Rj738qzZRDpeW'}
+
+[92mLogs for execution LELgAVR8OmR00:[0m
+R4kKGm1gQ7xDV INFO Hello this is actor R4kKGm1gQ7xDV
+NONCE:
+{'_links': {'actor': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV', 'owner': 'https://api.sd2e.org/profiles/v2/urrutia', 'self': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV/nonces/SD2E_063a3LgAALDQB'}, 'actorId': 'R4kKGm1gQ7xDV', 'apiServer': 'https://api.sd2e.org', 'createTime': '2019-04-03 17:41:46.789943', 'currentUses': 0, 'description': '', 'id': 'SD2E_063a3LgAALDQB', 'lastUseTime': 'None', 'level': 'EXECUTE', 'maxUses': -1, 'owner': 'urrutia', 'remainingUses': -1, 'roles': ['Internal/everyone']}
+{'HOME': '/',
+ 'HOSTNAME': '3690ae544a41',
+ 'MSG': "{'id': 214930, 'name': 'aloe-test', 'tenantId': 'sd2e', "
+        "'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue', 'status': "
+        "'CLEANING_UP', 'lastStatusMessage': 'Transitioning from status "
+        "RUNNING to CLEANING_UP in phase MONITORING.', 'accepted': "
+        "'2019-04-03T17:40:45.168Z', 'created': '2019-04-03T17:40:45.205Z', "
+        "'ended': None, 'lastUpdated': '2019-04-03T17:41:36.651Z', 'uuid': "
+        "'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007', 'owner': 'urrutia', "
+        "'roles': "
+        "'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX', "
+        "'systemId': 'hpc-tacc-wrangler-urrutia', 'appId': "
+        "'urrutia-rnaseq-0.1.4', 'appUuid': "
+        "'44532760559873560-242ac11b-0001-005', 'workPath': "
+        "'urrutia/job-e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007-aloe-test', "
+        "'archive': True, 'archivePath': 'wrangler/alo_test', 'archiveSystem': "
+        "'data-tacc-work-urrutia', 'nodeCount': 1, 'processorsPerNode': 1, "
+        "'memoryPerNode': 1.0, 'maxHours': 0.83, 'inputs': '{}', 'parameters': "
+        '\'{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}\', '
+        "'remoteJobId': '168531', 'schedulerJobId': None, 'remoteQueue': "
+        "'hadoop', 'remoteSubmitted': '2019-04-03T17:40:56.125Z', "
+        "'remoteStarted': '2019-04-03T17:41:00.136Z', 'remoteEnded': "
+        "'2019-04-03T17:41:36.645Z', 'remoteOutcome': 'FINISHED', "
+        "'submitRetries': 0, 'remoteStatusChecks': 8, 'failedStatusChecks': 0, "
+        "'lastStatusCheck': '2019-04-03T17:41:36.640Z', 'blockedCount': 0, "
+        "'visible': True, 'updateToken': "
+        "'23af5c29-3e91-442b-a626-ad215b869106'}",
+ 'PATH': '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin',
+ 'REACTORS_VERSION': '0.7.6',
+ 'SCRATCH': '/mnt/ephemeral-01',
+ 'XDG_CACHE_HOME': '/tmp',
+ '_PROJ_CORRAL': '/corral',
+ '_PROJ_STOCKYARD': '/work/projects/',
+ '_REACTOR_TEMP': '/mnt/ephemeral-01',
+ '_USER_WORK': '',
+ '_abaco_Content_Type': 'application/json',
+ '_abaco_access_token': '716ba6c81b7c6eae238a53984877e31',
+ '_abaco_actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ '_abaco_actor_id': 'R4kKGm1gQ7xDV',
+ '_abaco_actor_name': 'echo_reactor',
+ '_abaco_actor_state': '{}',
+ '_abaco_api_server': 'https://api.sd2e.org',
+ '_abaco_container_repo': 'jurrutia/echo_reactor:0.1',
+ '_abaco_execution_id': 'LELgAVR8OmR00',
+ '_abaco_username': 'urrutia',
+ '_abaco_worker_id': 'raNXjlZOXpVNz',
+ 'actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ 'actor_id': 'R4kKGm1gQ7xDV',
+ 'archivePath': 'ginkgo/novel-chassis/201808/Novelchassis-Nand-Gate/miniaturized_library_prep',
+ 'archiveSystem': 'data-sd2e-community',
+ 'content_type': None,
+ 'dataset': '201808novel_chassisGinkgo%3A${sample}',
+ 'execution_id': 'LELgAVR8OmR00',
+ 'lastAction': 'manifest',
+ 'manifestURL': 'agave://data-sd2e-community/testing/novel_chassis/new_format/ginkgo_norm_missing2.json',
+ 'message_dict': {'accepted': '2019-04-03T17:40:45.168Z',
+                  'appId': 'urrutia-rnaseq-0.1.4',
+                  'appUuid': '44532760559873560-242ac11b-0001-005',
+                  'archive': True,
+                  'archivePath': 'wrangler/alo_test',
+                  'archiveSystem': 'data-tacc-work-urrutia',
+                  'blockedCount': 0,
+                  'created': '2019-04-03T17:40:45.205Z',
+                  'ended': None,
+                  'failedStatusChecks': 0,
+                  'id': 214930,
+                  'inputs': '{}',
+                  'lastStatusCheck': '2019-04-03T17:41:36.640Z',
+                  'lastStatusMessage': 'Transitioning from status RUNNING to '
+                                       'CLEANING_UP in phase MONITORING.',
+                  'lastUpdated': '2019-04-03T17:41:36.651Z',
+                  'maxHours': 0.83,
+                  'memoryPerNode': 1.0,
+                  'name': 'aloe-test',
+                  'nodeCount': 1,
+                  'owner': 'urrutia',
+                  'parameters': '{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}',
+                  'processorsPerNode': 1,
+                  'remoteEnded': '2019-04-03T17:41:36.645Z',
+                  'remoteJobId': '168531',
+                  'remoteOutcome': 'FINISHED',
+                  'remoteQueue': 'hadoop',
+                  'remoteStarted': '2019-04-03T17:41:00.136Z',
+                  'remoteStatusChecks': 8,
+                  'remoteSubmitted': '2019-04-03T17:40:56.125Z',
+                  'roles': 'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX',
+                  'schedulerJobId': None,
+                  'status': 'CLEANING_UP',
+                  'submitRetries': 0,
+                  'systemId': 'hpc-tacc-wrangler-urrutia',
+                  'tenantId': 'sd2e',
+                  'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue',
+                  'updateToken': '23af5c29-3e91-442b-a626-ad215b869106',
+                  'uuid': 'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007',
+                  'visible': True,
+                  'workPath': 'urrutia/job-e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007-aloe-test'},
+ 'queues': '%5B%27ginkgo_norm_missing2.json%3Astrain%3Astar%27%2C '
+           '%27ginkgo_norm_missing2.json%3Astrain%3Abowtie2%27%5D',
+ 'raw_message': "{'id': 214930, 'name': 'aloe-test', 'tenantId': 'sd2e', "
+                "'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue', "
+                "'status': 'CLEANING_UP', 'lastStatusMessage': 'Transitioning "
+                "from status RUNNING to CLEANING_UP in phase MONITORING.', "
+                "'accepted': '2019-04-03T17:40:45.168Z', 'created': "
+                "'2019-04-03T17:40:45.205Z', 'ended': None, 'lastUpdated': "
+                "'2019-04-03T17:41:36.651Z', 'uuid': "
+                "'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007', 'owner': "
+                "'urrutia', 'roles': "
+                "'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX', "
+                "'systemId': 'hpc-tacc-wrangler-urrutia', 'appId': "
+                "'urrutia-rnaseq-0.1.4', 'appUuid': "
+                "'44532760559873560-242ac11b-0001-005', 'workPath': "
+                "'urrutia/job-e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007-aloe-test', "
+                "'archive': True, 'archivePath': 'wrangler/alo_test', "
+                "'archiveSystem': 'data-tacc-work-urrutia', 'nodeCount': 1, "
+                "'processorsPerNode': 1, 'memoryPerNode': 1.0, 'maxHours': "
+                "0.83, 'inputs': '{}', 'parameters': "
+                '\'{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}\', '
+                "'remoteJobId': '168531', 'schedulerJobId': None, "
+                "'remoteQueue': 'hadoop', 'remoteSubmitted': "
+                "'2019-04-03T17:40:56.125Z', 'remoteStarted': "
+                "'2019-04-03T17:41:00.136Z', 'remoteEnded': "
+                "'2019-04-03T17:41:36.645Z', 'remoteOutcome': 'FINISHED', "
+                "'submitRetries': 0, 'remoteStatusChecks': 8, "
+                "'failedStatusChecks': 0, 'lastStatusCheck': "
+                "'2019-04-03T17:41:36.640Z', 'blockedCount': 0, 'visible': "
+                "True, 'updateToken': '23af5c29-3e91-442b-a626-ad215b869106'}",
+ 'raw_message_parse_log': '',
+ 'state': '{}',
+ 'transcriptReference': '%2Fwork%2Fprojects%2FSD2E-Community%2Fprod%2Fdata%2F%2Freference%2Fnovel_chassis%2Fmaster_ref',
+ 'username': 'urrutia',
+ 'x-agave-job-id': '214930',
+ 'x-execution': 'Ej0AgqkOKNmG8',
+ 'x-nonce': 'SD2E_Rj738qzZRDpeW'}
+R4kKGm1gQ7xDV INFO successfully ran
+R4kKGm1gQ7xDV INFO successfully ran
+
+[92mLogs for execution qKmQaDR8Lj6aw:[0m
+R4kKGm1gQ7xDV INFO Hello this is actor R4kKGm1gQ7xDV
+NONCE:
+{'_links': {'actor': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV', 'owner': 'https://api.sd2e.org/profiles/v2/urrutia', 'self': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV/nonces/SD2E_RY8r7YB5Lo1ML'}, 'actorId': 'R4kKGm1gQ7xDV', 'apiServer': 'https://api.sd2e.org', 'createTime': '2019-04-03 17:41:51.505168', 'currentUses': 0, 'description': '', 'id': 'SD2E_RY8r7YB5Lo1ML', 'lastUseTime': 'None', 'level': 'EXECUTE', 'maxUses': -1, 'owner': 'urrutia', 'remainingUses': -1, 'roles': ['Internal/everyone']}
+{'HOME': '/',
+ 'HOSTNAME': '8b438c403d48',
+ 'MSG': "{'id': 214930, 'name': 'aloe-test', 'tenantId': 'sd2e', "
+        "'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue', 'status': "
+        "'ARCHIVING', 'lastStatusMessage': 'Transitioning from status "
+        "CLEANING_UP to ARCHIVING in phase ARCHIVING.', 'accepted': "
+        "'2019-04-03T17:40:45.168Z', 'created': '2019-04-03T17:40:45.205Z', "
+        "'ended': None, 'lastUpdated': '2019-04-03T17:41:36.680Z', 'uuid': "
+        "'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007', 'owner': 'urrutia', "
+        "'roles': "
+        "'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX', "
+        "'systemId': 'hpc-tacc-wrangler-urrutia', 'appId': "
+        "'urrutia-rnaseq-0.1.4', 'appUuid': "
+        "'44532760559873560-242ac11b-0001-005', 'workPath': "
+        "'urrutia/job-e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007-aloe-test', "
+        "'archive': True, 'archivePath': 'wrangler/alo_test', 'archiveSystem': "
+        "'data-tacc-work-urrutia', 'nodeCount': 1, 'processorsPerNode': 1, "
+        "'memoryPerNode': 1.0, 'maxHours': 0.83, 'inputs': '{}', 'parameters': "
+        '\'{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}\', '
+        "'remoteJobId': '168531', 'schedulerJobId': None, 'remoteQueue': "
+        "'hadoop', 'remoteSubmitted': '2019-04-03T17:40:56.125Z', "
+        "'remoteStarted': '2019-04-03T17:41:00.136Z', 'remoteEnded': "
+        "'2019-04-03T17:41:36.645Z', 'remoteOutcome': 'FINISHED', "
+        "'submitRetries': 0, 'remoteStatusChecks': 8, 'failedStatusChecks': 0, "
+        "'lastStatusCheck': '2019-04-03T17:41:36.640Z', 'blockedCount': 0, "
+        "'visible': True, 'updateToken': "
+        "'23af5c29-3e91-442b-a626-ad215b869106'}",
+ 'PATH': '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin',
+ 'REACTORS_VERSION': '0.7.6',
+ 'SCRATCH': '/mnt/ephemeral-01',
+ 'XDG_CACHE_HOME': '/tmp',
+ '_PROJ_CORRAL': '/corral',
+ '_PROJ_STOCKYARD': '/work/projects/',
+ '_REACTOR_TEMP': '/mnt/ephemeral-01',
+ '_USER_WORK': '',
+ '_abaco_Content_Type': 'application/json',
+ '_abaco_access_token': 'ee5540dcdfcb706cf1b4c8c8f9ae44ac',
+ '_abaco_actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ '_abaco_actor_id': 'R4kKGm1gQ7xDV',
+ '_abaco_actor_name': 'echo_reactor',
+ '_abaco_actor_state': '{}',
+ '_abaco_api_server': 'https://api.sd2e.org',
+ '_abaco_container_repo': 'jurrutia/echo_reactor:0.1',
+ '_abaco_execution_id': 'qKmQaDR8Lj6aw',
+ '_abaco_username': 'urrutia',
+ '_abaco_worker_id': 'raNXjlZOXpVNz',
+ 'actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ 'actor_id': 'R4kKGm1gQ7xDV',
+ 'archivePath': 'ginkgo/novel-chassis/201808/Novelchassis-Nand-Gate/miniaturized_library_prep',
+ 'archiveSystem': 'data-sd2e-community',
+ 'content_type': None,
+ 'dataset': '201808novel_chassisGinkgo%3A${sample}',
+ 'execution_id': 'qKmQaDR8Lj6aw',
+ 'lastAction': 'manifest',
+ 'manifestURL': 'agave://data-sd2e-community/testing/novel_chassis/new_format/ginkgo_norm_missing2.json',
+ 'message_dict': {'accepted': '2019-04-03T17:40:45.168Z',
+                  'appId': 'urrutia-rnaseq-0.1.4',
+                  'appUuid': '44532760559873560-242ac11b-0001-005',
+                  'archive': True,
+                  'archivePath': 'wrangler/alo_test',
+                  'archiveSystem': 'data-tacc-work-urrutia',
+                  'blockedCount': 0,
+                  'created': '2019-04-03T17:40:45.205Z',
+                  'ended': None,
+                  'failedStatusChecks': 0,
+                  'id': 214930,
+                  'inputs': '{}',
+                  'lastStatusCheck': '2019-04-03T17:41:36.640Z',
+                  'lastStatusMessage': 'Transitioning from status CLEANING_UP '
+                                       'to ARCHIVING in phase ARCHIVING.',
+                  'lastUpdated': '2019-04-03T17:41:36.680Z',
+                  'maxHours': 0.83,
+                  'memoryPerNode': 1.0,
+                  'name': 'aloe-test',
+                  'nodeCount': 1,
+                  'owner': 'urrutia',
+                  'parameters': '{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}',
+                  'processorsPerNode': 1,
+                  'remoteEnded': '2019-04-03T17:41:36.645Z',
+                  'remoteJobId': '168531',
+                  'remoteOutcome': 'FINISHED',
+                  'remoteQueue': 'hadoop',
+                  'remoteStarted': '2019-04-03T17:41:00.136Z',
+                  'remoteStatusChecks': 8,
+                  'remoteSubmitted': '2019-04-03T17:40:56.125Z',
+                  'roles': 'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX',
+                  'schedulerJobId': None,
+                  'status': 'ARCHIVING',
+                  'submitRetries': 0,
+                  'systemId': 'hpc-tacc-wrangler-urrutia',
+                  'tenantId': 'sd2e',
+                  'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue',
+                  'updateToken': '23af5c29-3e91-442b-a626-ad215b869106',
+                  'uuid': 'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007',
+                  'visible': True,
+                  'workPath': 'urrutia/job-e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007-aloe-test'},
+ 'queues': '%5B%27ginkgo_norm_missing2.json%3Astrain%3Astar%27%2C '
+           '%27ginkgo_norm_missing2.json%3Astrain%3Abowtie2%27%5D',
+ 'raw_message': "{'id': 214930, 'name': 'aloe-test', 'tenantId': 'sd2e', "
+                "'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue', "
+R4kKGm1gQ7xDV INFO successfully ran
+R4kKGm1gQ7xDV INFO successfully ran
+                "'status': 'ARCHIVING', 'lastStatusMessage': 'Transitioning "
+                "from status CLEANING_UP to ARCHIVING in phase ARCHIVING.', "
+                "'accepted': '2019-04-03T17:40:45.168Z', 'created': "
+                "'2019-04-03T17:40:45.205Z', 'ended': None, 'lastUpdated': "
+                "'2019-04-03T17:41:36.680Z', 'uuid': "
+                "'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007', 'owner': "
+                "'urrutia', 'roles': "
+                "'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX', "
+                "'systemId': 'hpc-tacc-wrangler-urrutia', 'appId': "
+                "'urrutia-rnaseq-0.1.4', 'appUuid': "
+                "'44532760559873560-242ac11b-0001-005', 'workPath': "
+                "'urrutia/job-e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007-aloe-test', "
+                "'archive': True, 'archivePath': 'wrangler/alo_test', "
+                "'archiveSystem': 'data-tacc-work-urrutia', 'nodeCount': 1, "
+                "'processorsPerNode': 1, 'memoryPerNode': 1.0, 'maxHours': "
+                "0.83, 'inputs': '{}', 'parameters': "
+                '\'{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}\', '
+                "'remoteJobId': '168531', 'schedulerJobId': None, "
+                "'remoteQueue': 'hadoop', 'remoteSubmitted': "
+                "'2019-04-03T17:40:56.125Z', 'remoteStarted': "
+                "'2019-04-03T17:41:00.136Z', 'remoteEnded': "
+                "'2019-04-03T17:41:36.645Z', 'remoteOutcome': 'FINISHED', "
+                "'submitRetries': 0, 'remoteStatusChecks': 8, "
+                "'failedStatusChecks': 0, 'lastStatusCheck': "
+                "'2019-04-03T17:41:36.640Z', 'blockedCount': 0, 'visible': "
+                "True, 'updateToken': '23af5c29-3e91-442b-a626-ad215b869106'}",
+ 'raw_message_parse_log': '',
+ 'state': '{}',
+ 'transcriptReference': '%2Fwork%2Fprojects%2FSD2E-Community%2Fprod%2Fdata%2F%2Freference%2Fnovel_chassis%2Fmaster_ref',
+ 'username': 'urrutia',
+ 'x-agave-job-id': '214930',
+ 'x-execution': 'Ej0AgqkOKNmG8',
+ 'x-nonce': 'SD2E_Rj738qzZRDpeW'}
+
+[92mLogs for execution RYvJ5Wq3DMqwq:[0m
+R4kKGm1gQ7xDV INFO Hello this is actor R4kKGm1gQ7xDV
+NONCE:
+{'_links': {'actor': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV', 'owner': 'https://api.sd2e.org/profiles/v2/urrutia', 'self': 'https://api.sd2e.org/actors/v2/R4kKGm1gQ7xDV/nonces/SD2E_qgwzMVBm7KXP3'}, 'actorId': 'R4kKGm1gQ7xDV', 'apiServer': 'https://api.sd2e.org', 'createTime': '2019-04-03 17:41:58.941631', 'currentUses': 0, 'description': '', 'id': 'SD2E_qgwzMVBm7KXP3', 'lastUseTime': 'None', 'level': 'EXECUTE', 'maxUses': -1, 'owner': 'urrutia', 'remainingUses': -1, 'roles': ['Internal/everyone']}
+{'HOME': '/',
+ 'HOSTNAME': 'd0343e3134ee',
+ 'MSG': "{'id': 214930, 'name': 'aloe-test', 'tenantId': 'sd2e', "
+        "'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue', 'status': "
+        "'ARCHIVING', 'lastStatusMessage': 'Transitioning from status "
+        "CLEANING_UP to ARCHIVING in phase ARCHIVING.', 'accepted': "
+        "'2019-04-03T17:40:45.168Z', 'created': '2019-04-03T17:40:45.205Z', "
+        "'ended': None, 'lastUpdated': '2019-04-03T17:41:36.680Z', 'uuid': "
+        "'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007', 'owner': 'urrutia', "
+        "'roles': "
+        "'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX', "
+        "'systemId': 'hpc-tacc-wrangler-urrutia', 'appId': "
+        "'urrutia-rnaseq-0.1.4', 'appUuid': "
+        "'44532760559873560-242ac11b-0001-005', 'workPath': "
+        "'urrutia/job-e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007-aloe-test', "
+        "'archive': True, 'archivePath': 'wrangler/alo_test', 'archiveSystem': "
+        "'data-tacc-work-urrutia', 'nodeCount': 1, 'processorsPerNode': 1, "
+        "'memoryPerNode': 1.0, 'maxHours': 0.83, 'inputs': '{}', 'parameters': "
+        '\'{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}\', '
+        "'remoteJobId': '168531', 'schedulerJobId': None, 'remoteQueue': "
+        "'hadoop', 'remoteSubmitted': '2019-04-03T17:40:56.125Z', "
+        "'remoteStarted': '2019-04-03T17:41:00.136Z', 'remoteEnded': "
+        "'2019-04-03T17:41:36.645Z', 'remoteOutcome': 'FINISHED', "
+        "'submitRetries': 0, 'remoteStatusChecks': 8, 'failedStatusChecks': 0, "
+        "'lastStatusCheck': '2019-04-03T17:41:36.640Z', 'blockedCount': 0, "
+        "'visible': True, 'updateToken': "
+        "'23af5c29-3e91-442b-a626-ad215b869106'}",
+ 'PATH': '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin',
+ 'REACTORS_VERSION': '0.7.6',
+ 'SCRATCH': '/mnt/ephemeral-01',
+ 'XDG_CACHE_HOME': '/tmp',
+ '_PROJ_CORRAL': '/corral',
+ '_PROJ_STOCKYARD': '/work/projects/',
+ '_REACTOR_TEMP': '/mnt/ephemeral-01',
+ '_USER_WORK': '',
+ '_abaco_Content_Type': 'application/json',
+ '_abaco_access_token': '727c521b5b0aa9cc09213d6a0ed5fd3',
+ '_abaco_actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ '_abaco_actor_id': 'R4kKGm1gQ7xDV',
+ '_abaco_actor_name': 'echo_reactor',
+ '_abaco_actor_state': '{}',
+ '_abaco_api_server': 'https://api.sd2e.org',
+ '_abaco_container_repo': 'jurrutia/echo_reactor:0.1',
+ '_abaco_execution_id': 'RYvJ5Wq3DMqwq',
+ '_abaco_username': 'urrutia',
+ '_abaco_worker_id': 'raNXjlZOXpVNz',
+ 'actor_dbid': 'SD2E_R4kKGm1gQ7xDV',
+ 'actor_id': 'R4kKGm1gQ7xDV',
+ 'archivePath': 'ginkgo/novel-chassis/201808/Novelchassis-Nand-Gate/miniaturized_library_prep',
+ 'archiveSystem': 'data-sd2e-community',
+ 'content_type': None,
+ 'dataset': '201808novel_chassisGinkgo%3A${sample}',
+ 'execution_id': 'RYvJ5Wq3DMqwq',
+ 'lastAction': 'manifest',
+ 'manifestURL': 'agave://data-sd2e-community/testing/novel_chassis/new_format/ginkgo_norm_missing2.json',
+ 'message_dict': {'accepted': '2019-04-03T17:40:45.168Z',
+                  'appId': 'urrutia-rnaseq-0.1.4',
+                  'appUuid': '44532760559873560-242ac11b-0001-005',
+                  'archive': True,
+                  'archivePath': 'wrangler/alo_test',
+                  'archiveSystem': 'data-tacc-work-urrutia',
+                  'blockedCount': 0,
+                  'created': '2019-04-03T17:40:45.205Z',
+                  'ended': None,
+                  'failedStatusChecks': 0,
+                  'id': 214930,
+                  'inputs': '{}',
+                  'lastStatusCheck': '2019-04-03T17:41:36.640Z',
+                  'lastStatusMessage': 'Transitioning from status CLEANING_UP '
+                                       'to ARCHIVING in phase ARCHIVING.',
+                  'lastUpdated': '2019-04-03T17:41:36.680Z',
+                  'maxHours': 0.83,
+                  'memoryPerNode': 1.0,
+                  'name': 'aloe-test',
+                  'nodeCount': 1,
+                  'owner': 'urrutia',
+                  'parameters': '{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}',
+                  'processorsPerNode': 1,
+                  'remoteEnded': '2019-04-03T17:41:36.645Z',
+                  'remoteJobId': '168531',
+                  'remoteOutcome': 'FINISHED',
+                  'remoteQueue': 'hadoop',
+                  'remoteStarted': '2019-04-03T17:41:00.136Z',
+                  'remoteStatusChecks': 8,
+                  'remoteSubmitted': '2019-04-03T17:40:56.125Z',
+                  'roles': 'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX',
+                  'schedulerJobId': None,
+                  'status': 'ARCHIVING',
+                  'submitRetries': 0,
+                  'systemId': 'hpc-tacc-wrangler-urrutia',
+                  'tenantId': 'sd2e',
+                  'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue',
+                  'updateToken': '23af5c29-3e91-442b-a626-ad215b869106',
+                  'uuid': 'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007',
+                  'visible': True,
+                  'workPath': 'urrutia/job-e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007-aloe-test'},
+ 'queues': '%5B%27ginkgo_norm_missing2.json%3Astrain%3Astar%27%2C '
+           '%27ginkgo_norm_missing2.json%3Astrain%3Abowtie2%27%5D',
+ 'raw_message': "{'id': 214930, 'name': 'aloe-test', 'tenantId': 'sd2e', "
+                "'tenantQueue': 'aloe.jobq.sd2e.submit.DefaultQueue', "
+                "'status': 'ARCHIVING', 'lastStatusMessage': 'Transitioning "
+                "from status CLEANING_UP to ARCHIVING in phase ARCHIVING.', "
+                "'accepted': '2019-04-03T17:40:45.168Z', 'created': "
+                "'2019-04-03T17:40:45.205Z', 'ended': None, 'lastUpdated': "
+                "'2019-04-03T17:41:36.680Z', 'uuid': "
+                "'e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007', 'owner': "
+                "'urrutia', 'roles': "
+                "'Internal/SD2E_urrutia_test_client_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_PRODUCTION,Internal/SD2E_urrutia_sdk-wrangler_PRODUCTION,Internal/SD2E_urrutia_stampede2_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_loaner_laptop_client_PRODUCTION,Internal/SD2E_urrutia_test_client2_PRODUCTION,Internal/SD2E_urrutia_my_api_client5_PRODUCTION,Internal/SD2E_urrutia_sd2e_client_PRODUCTION,Internal/SD2E_urrutia_test_client3_PRODUCTION,Internal/impersonator,Internal/SD2E_urrutia_my_api_client4_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client_PRODUCTION,Internal/everyone,Internal/SD2E_urrutia_DefaultApplication_PRODUCTION,Internal/SD2E_urrutia_wrangler_sd2e_PRODUCTION,Internal/SD2E_urrutia_mav2_sd2e_client2_PRODUCTION,Internal/SD2E_urrutia_aloe_beta_client_SANDBOX', "
+                "'systemId': 'hpc-tacc-wrangler-urrutia', 'appId': "
+                "'urrutia-rnaseq-0.1.4', 'appUuid': "
+                "'44532760559873560-242ac11b-0001-005', 'workPath': "
+                "'urrutia/job-e3cb522d-2278-45d8-b1f8-0d8f3ba7d6bd-007-aloe-test', "
+                "'archive': True, 'archivePath': 'wrangler/alo_test', "
+                "'archiveSystem': 'data-tacc-work-urrutia', 'nodeCount': 1, "
+                "'processorsPerNode': 1, 'memoryPerNode': 1.0, 'maxHours': "
+                "0.83, 'inputs': '{}', 'parameters': "
+                '\'{"path_read1":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R1_001.fastq.gz","path_read2":"/work/projects/SD2E-Community/prod/data/sample/rnaseq/test/2123456_R2_001.fastq.gz","path_filterseqs":"/work/projects/SD2E-Community/prod/data/reference/rna_databases/rRNA_databases","trim":true,"sortmerna":false,"minlen":36,"adaptersfile":"TruSeq3-PE-2.fa:2:30:10","multiple_lanes":false,"CONTAINER_IMAGE":["jurrutia/rnaseq:0.1.4"]}\', '
+                "'remoteJobId': '168531', 'schedulerJobId': None, "
+                "'remoteQueue': 'hadoop', 'remoteSubmitted': "
+                "'2019-04-03T17:40:56.125Z', 'remoteStarted': "
+                "'2019-04-03T17:41:00.136Z', 'remoteEnded': "
+                "'2019-04-03T17:41:36.645Z', 'remoteOutcome': 'FINISHED', "
+                "'submitRetries': 0, 'remoteStatusChecks': 8, "
+                "'failedStatusChecks': 0, 'lastStatusCheck': "
+                "'2019-04-03T17:41:36.640Z', 'blockedCount': 0, 'visible': "
+                "True, 'updateToken': '23af5c29-3e91-442b-a626-ad215b869106'}",
+ 'raw_message_parse_log': '',
+ 'state': '{}',
+ 'transcriptReference': '%2Fwork%2Fprojects%2FSD2E-Community%2Fprod%2Fdata%2F%2Freference%2Fnovel_chassis%2Fmaster_ref',
+ 'username': 'urrutia',
+ 'x-agave-job-id': '214930',
+ 'x-execution': 'Ej0AgqkOKNmG8',
+ 'x-nonce': 'SD2E_Rj738qzZRDpeW'}
+R4kKGm1gQ7xDV INFO successfully ran
+R4kKGm1gQ7xDV INFO successfully ran
+
